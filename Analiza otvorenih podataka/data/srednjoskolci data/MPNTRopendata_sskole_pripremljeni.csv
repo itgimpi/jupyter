@@ -1,0 +1,447 @@
+ID ustanove,Okrug,Opština,Naziv ustanove,Broj odeljenja,Broj kombinovanih odeljenja,Broj specijalnih odeljenja,Broj učenika,Broj devojčica,Broj nastavnika - bez zamena,Ukupna norma nastavnikaa - bez zamena,Broj zaposlenih - bez zamena,Ukupna norma zaposlenih- bez zamena
+1322,Severnobački upravni okrug,Bačka Topola,Poljoprivredna škola,26,5,0,524,222,74,65.9749,109,103.4649
+1323,Severnobački upravni okrug,Bačka Topola,Srednja tehnička škola Šinković Jožef,15,3,0,318,61,46,32.813,60,46.033
+1324,Severnobački upravni okrug,Subotica - grad,Gimnazija Svetozar Marković,36,0,0,855,535,76,66.1,96,87.3
+1325,Severnobački upravni okrug,Subotica - grad,Ekonomska srednja škola Bosa Milićević,28,6,0,762,483,72,59.86,87,75.55
+1326,Severnobački upravni okrug,Subotica - grad,Srednja medicinska škola,24,0,0,684,566,125,61.5051,140,78.0051
+1327,Severnobački upravni okrug,Subotica - grad,Politehnička škola,36,7,0,747,336,96,78.85,116,102.35
+1328,Severnobački upravni okrug,Subotica - grad,Hemijsko-tehnološka škola,34,2,0,590,393,94,78.3542,115,103.3042
+1329,Severnobački upravni okrug,Subotica - grad,Tehnička škola Ivan Sarić,52,0,0,1308,212,124,118.2015,162,158.8541
+1331,Zapadnobački upravni okrug,Apatin,Gimnazija Nikola Tesla,8,0,0,210,132,23,14.6705,30,22.7705
+1332,Severnobanatski upravni okrug,Ada,Tehnička škola,21,3,0,378,38,48,43.098,65,60.598
+1333,Severnobanatski upravni okrug,Kikinda,Gimnazija Dušan Vasiljev,17,0,0,427,268,50,30.1878,63,43.1878
+1334,Severnobanatski upravni okrug,Kikinda,Ekonomsko-trgovinska škola,15,2,0,410,287,48,35.5081,62,49.9851
+1335,Severnobanatski upravni okrug,Kikinda,Srednja stručna škola Miloš Crnjanski,16,3,0,357,262,71,39.9051,84,53.6651
+1336,Severnobanatski upravni okrug,Kikinda,Tehnička škola,26,3,0,675,103,74,61.6633,96,85.6633
+1337,Severnobanatski upravni okrug,Kanjiža,Poljoprivredno-tehnički srednjoškolski centar Besedeš Jožef,19,0,0,313,83,45,40.2599,61,57.6121
+1338,Severnobanatski upravni okrug,Novi Kneževac,Gimnazija,4,0,0,71,43,18,7.016,23,13.236
+1339,Severnobanatski upravni okrug,Novi Kneževac,Srednja škola Dositej Obradović,13,6,0,292,117,49,30.5012,60,43.0767
+1340,Severnobanatski upravni okrug,Senta,Senćanska gimnazija,16,0,0,296,196,44,29.0382,57,42.5382
+1341,Severnobanatski upravni okrug,Senta,Ekonomsko-trgovinska škola Senta,12,0,0,261,197,41,27.8614,53,39.3614
+1342,Severnobanatski upravni okrug,Čoka,Hemijsko-prehrambena srednja škola,12,4,0,120,73,30,23.6989,40,35.6989
+1343,Srednjobanatski upravni okrug,Zrenjanin - grad,Zrenjaninska gimnazija,40,0,0,1092,672,101,76.8168,123,101.3168
+1344,Srednjobanatski upravni okrug,Zrenjanin - grad,Ekonomsko-trgovinska škola Jovan Trajković,30,0,0,814,516,88,63.5388,103,78.6588
+1345,Srednjobanatski upravni okrug,Zrenjanin - grad,Medicinska škola,22,1,0,650,523,107,61.0393,128,84.0593
+1346,Srednjobanatski upravni okrug,Zrenjanin - grad,Poljoprivredna škola,16,0,0,434,181,56,40.2773,79,64.5773
+1347,Srednjobanatski upravni okrug,Zrenjanin - grad,Hemijsko-prehrambena i tekstilna škola Uroš Predić,23,3,0,412,274,68,51.9332,88,72.8332
+1348,Srednjobanatski upravni okrug,Zrenjanin - grad,Elektrotehnička i građevinska škola Nikola Tesla,30,5,0,748,90,104,64.7174,127,87.4174
+1349,Srednjobanatski upravni okrug,Zrenjanin - grad,Tehnička škola,26,0,0,677,138,65,52.0776,87,75.5776
+1351,Srednjobanatski upravni okrug,Nova Crnja,Srednja škola Đura Jakšić,11,0,0,251,148,29,18.8991,36,26.8991
+1352,Srednjobanatski upravni okrug,Novi Bečej,Srednja škola,14,3,0,288,134,44,26.944,55,38.144
+1353,Srednjobanatski upravni okrug,Sečanj,Srednja škola Vuk Karadžić,11,0,0,206,95,34,19.14,40,26.94
+1354,Južnobanatski upravni okrug,Alibunar,Ekonomsko-trgovinska škola Dositej Obradović,14,0,0,282,154,39,25.6555,50,36.6555
+1355,Južnobanatski upravni okrug,Bela Crkva,Belocrkvanska gimnazija i ekonomska škola,8,0,0,199,116,27,13.5044,35,20.6427
+1356,Južnobanatski upravni okrug,Bela Crkva,Tehnička škola Sava Munćan,12,4,0,254,87,43,24.93,56,39.22
+1357,Južnobanatski upravni okrug,Vršac,Gimnazija Borislav Petrov Braca,20,0,0,501,298,54,38.6108,69,52.5008
+1358,Južnobanatski upravni okrug,Vršac,Poljoprivredna škola Vršac,17,3,0,412,205,58,37.1927,77,58.1927
+1359,Južnobanatski upravni okrug,Vršac,Hemijsko-medicinska škola,28,0,0,725,518,101,69.4119,118,87.4919
+1360,Južnobanatski upravni okrug,Vršac,Školski centar Nikola Tesla,23,2,0,651,131,58,45.538,73,63.538
+1361,Južnobanatski upravni okrug,Kovačica,Gimnazija Mihajlo Pupin,10,0,0,226,125,31,19.0818,39,27.7818
+1362,Južnobanatski upravni okrug,Kovin,Gimnazija i ekonomska škola Branko Radičević,12,0,0,263,147,31,23.0347,40,33.0347
+1363,Južnobanatski upravni okrug,Kovin,Srednja stručna škola Vasa Pelagić,13,4,0,264,112,40,32.8034,54,49.8034
+1364,Južnobanatski upravni okrug,Pančevo - grad,Gimnazija Uroš Predić,32,0,0,943,588,66,58.4188,79,71.4188
+1365,Južnobanatski upravni okrug,Pančevo - grad,Ekonomsko-trgovinska škola Paja Marganović,27,3,0,761,507,60,52.03,76,69.53
+1366,Južnobanatski upravni okrug,Pančevo - grad,Medicinska škola Stevica Jovanović,19,0,0,577,445,71,51.605,85,66.605
+1367,Južnobanatski upravni okrug,Pančevo - grad,Poljoprivredna škola Josif Pančić,16,2,0,338,150,47,36.4822,63,53.4822
+1368,Južnobanatski upravni okrug,Pančevo - grad,Mašinska škola Pančevo,33,2,0,891,81,83,81.106,101,103.106
+1369,Južnobanatski upravni okrug,Pančevo - grad,Elektrotehnička škola Nikola Tesla,25,0,0,691,71,75,63.51,88,80.01
+1370,Južnobanatski upravni okrug,Pančevo - grad,Tehnička škola 23. maj,32,6,0,870,546,86,75.9368,104,96.3868
+1372,Severnobački upravni okrug,Bačka Topola,Gimnazija i ekonomska škola Dositej Obradović,13,0,0,292,190,37,23.327,51,37.327
+1373,Zapadnobački upravni okrug,Apatin,Tehnička škola sa domom učenika,10,2,0,153,32,34,20.3155,64,52.3155
+1374,Zapadnobački upravni okrug,Apatin,Srednja građevinska i drvoprerađivačka stručna škola,6,0,0,94,45,22,12.0223,28,18.0223
+1375,Zapadnobački upravni okrug,Kula,Osnovna škola i gimnazija Pjetro Kuzmjak sa domom učenika,27,1,1,492,290,56,45.4567,87,74.5067
+1376,Zapadnobački upravni okrug,Kula,Ekonomsko-trgovinska škola,20,3,0,472,308,60,44.8059,75,59.1914
+1377,Zapadnobački upravni okrug,Kula,Srednja tehnička škola Mihajlo Pupin,19,3,0,450,14,47,39.8681,64,58.3281
+1378,Zapadnobački upravni okrug,Kula,Srednja stručna škola,8,2,0,160,82,37,20.01,50,33.51
+1379,Zapadnobački upravni okrug,Odžaci,Gimnazija i ekonomska škola Jovan Jovanović Zmaj,13,0,0,271,179,35,22.9155,49,35.507
+1380,Zapadnobački upravni okrug,Odžaci,Tehnička škola,14,5,0,286,77,47,31.6647,60,46.198
+1381,Zapadnobački upravni okrug,Sombor - grad,Gimnazija Veljko Petrović,25,0,0,588,365,65,46.4537,80,62.9537
+1382,Zapadnobački upravni okrug,Sombor - grad,Srednja ekonomska škola,24,3,0,595,382,74,53.945,91,72.945
+1383,Zapadnobački upravni okrug,Sombor - grad,Srednja medicinska škola Dr Ružica Rip,20,0,0,558,453,71,44.6317,84,59.1317
+1384,Zapadnobački upravni okrug,Sombor - grad,Srednja poljoprivredno-prehrambena škola,15,3,0,371,173,52,39.9732,73,64.3832
+1385,Zapadnobački upravni okrug,Sombor - grad,Srednja škola Sveti Sava,18,3,0,441,331,57,43.2704,71,58.1704
+1386,Zapadnobački upravni okrug,Sombor - grad,Srednja tehnička škola,34,4,0,848,111,98,76.202,122,102.202
+1387,Južnobački upravni okrug,Bač,Poljoprivredna škola,7,2,0,138,52,27,17.4791,36,25.9791
+1388,Južnobački upravni okrug,Bačka Palanka,Gimnazija 20. oktobar,16,0,0,395,256,47,28.6666,57,40.5555
+1389,Južnobački upravni okrug,Bačka Palanka,Srednja stručna škola Radivoj Uvalić,22,6,0,610,401,62,44.841,72,58.841
+1390,Južnobački upravni okrug,Bačka Palanka,Tehnička škola 9. Maj,23,3,0,532,45,74,53.5147,90,72.1067
+1391,Južnobački upravni okrug,Bački Petrovac,Gimnazija Jan Kolar sa domom učenika,14,2,0,284,163,35,26.1442,64,55.1442
+1392,Južnobački upravni okrug,Bečej,Gimnazija,14,0,0,305,189,42,24.5976,55,36.5976
+1393,Južnobački upravni okrug,Bečej,Ekonomsko-trgovinska škola,26,5,0,601,421,72,54.8711,85,71.0111
+1394,Južnobački upravni okrug,Bečej,Tehnička škola,22,4,0,527,92,73,51.1117,89,66.6142
+1395,Južnobački upravni okrug,Vrbas,Gimnazija Žarko Zrenjanin,23,0,0,602,352,65,42.8054,77,56.3054
+1396,Južnobački upravni okrug,Vrbas,Srednja stručna škola 4. juli,31,7,4,716,259,83,70.9495,105,96.6199
+1397,Južnobački upravni okrug,Žabalj,Srednja škola 22. oktobar,24,4,0,646,304,67,52.4396,82,70.4396
+1398,Južnobački upravni okrug,Novi Sad,Gimnazija Jovan Jovanović Zmaj,48,0,0,1292,619,123,85.9844,141,105.6344
+1399,Južnobački upravni okrug,Novi Sad,Gimnazija Svetozar Marković,37,0,0,1116,708,88,66.19,106,85.69
+1400,Južnobački upravni okrug,Novi Sad,Gimnazija Isidora Sekulić,29,0,0,954,590,52,46.74,67,62.24
+1401,Južnobački upravni okrug,Novi Sad,Gimnazija Laza Kostić,24,0,0,743,416,54,46.233,71,64.633
+1402,Južnobački upravni okrug,Novi Sad,Srednja škola Svetozar Miletić,62,0,0,1887,1128,133,122.54,164,155.86
+1403,Južnobački upravni okrug,Novi Sad,Medicinska škola 7. april,52,0,0,1711,1339,186,141.9011,213,173.4011
+1404,Južnobački upravni okrug,Novi Sad,Poljoprivredna škola sa domom učenika - Futog,37,2,0,747,292,109,81.344,184,158.924
+1405,Južnobački upravni okrug,Novi Sad,Srednja mašinska škola,24,2,0,641,18,71,56.34,103,88.02
+1406,Južnobački upravni okrug,Novi Sad,Elektrotehnička škola Mihajlo Pupin,68,4,0,1887,150,181,152.6936,218,190.1936
+1407,Južnobački upravni okrug,Novi Sad,Tehnička škola Pavle Savić,39,6,0,845,582,104,88.3014,121,110.7014
+1408,Južnobački upravni okrug,Novi Sad,Tehnička škola Mileva Marić Ajnštajn,65,5,0,1735,937,172,158.0818,212,203.0818
+1409,Južnobački upravni okrug,Novi Sad,Saobraćajna škola Pinki,53,0,0,1366,488,124,107.73,155,140.98
+1412,Južnobački upravni okrug,Novi Sad,Škola za dizajn Bogdan Šuput,24,0,0,416,334,84,61.3,98,77.47
+1413,Južnobački upravni okrug,Srbobran,Gimnazija i ekonomska škola Svetozar Miletić,8,0,0,164,110,27,13.114,33,21.114
+1414,Južnobački upravni okrug,Sremski Karlovci,Karlovačka gimnazija,24,4,0,521,410,89,77.599,107,96.599
+1415,Južnobački upravni okrug,Temerin,Srednja škola Lukijan Mušicki,20,6,0,415,197,56,37.7455,67,50.7455
+1416,Južnobački upravni okrug,Titel,Srednja tehnička škola Mileva Marić,14,6,0,298,156,36,29.298,47,41.798
+1417,Sremski upravni okrug,Inđija,Gimnazija,16,0,0,396,241,34,28.2199,46,39.7199
+1418,Sremski upravni okrug,Inđija,Tehnička škola Mihajlo Pupin,21,5,0,529,56,60,47.1547,74,63.4658
+1419,Sremski upravni okrug,Inđija,Srednja škola Dr Đorđe Natošević,22,6,0,537,362,64,48.54,77,62.04
+1420,Sremski upravni okrug,Pećinci,Tehnička škola Milenko Verkić - Neša,15,2,0,319,159,38,27.63,49,39.13
+1421,Sremski upravni okrug,Ruma,Gimnazija Stevan Puzić,16,0,0,397,252,38,27.39,50,39.82
+1422,Sremski upravni okrug,Ruma,Srednja poljoprivredno-prehrambena škola Stevan Petrović - Brile,11,1,0,247,93,36,24.7407,50,40.1907
+1423,Sremski upravni okrug,Ruma,Srednja tehnička škola Milenko Brzak - Uča,18,4,0,412,29,43,35.03,58,49.53
+1424,Sremski upravni okrug,Ruma,Srednja stručna škola Branko Radičević,19,3,0,468,348,53,39.0211,69,55.3211
+1425,Sremski upravni okrug,Sremska Mitrovica - grad,Mitrovačka gimnazija,30,0,2,794,468,69,56.255,84,71.755
+1426,Mačvanski upravni okrug,Loznica - grad,Srednja škola Sveti Sava,27,3,0,776,590,79,63.55,95,81.66
+1427,Mačvanski upravni okrug,Krupanj,Srednja škola,15,3,0,343,134,36,28.41,44,39.61
+1428,Mačvanski upravni okrug,Ljubovija,Srednja škola Vuk Karadžić,15,0,0,326,209,35,26.08,48,38.41
+1429,Mačvanski upravni okrug,Šabac - grad,Šabačka gimnazija,28,0,0,748,470,71,55.395,88,73.795
+1430,Mačvanski upravni okrug,Šabac - grad,"Ekonomska škola ""Stana Milanović""",34,6,0,992,616,84,71.11,105,94.11
+1431,Mačvanski upravni okrug,Šabac - grad,Medicinska škola Dr Andra Jovanović,28,0,0,833,625,97,69.9733,114,91.1733
+1432,Mačvanski upravni okrug,Šabac - grad,Tehnička škola,33,4,0,926,98,88,68.575,114,94.375
+1433,Mačvanski upravni okrug,Šabac - grad,Stručna hemijska i tekstilna škola,16,3,0,407,271,58,37.85,72,51.85
+1434,Mačvanski upravni okrug,Šabac - grad,Srednja poljoprivredna škola sa domom učenika - Šabac,27,7,2,657,261,73,62.6427,110,99.1427
+1436,Mačvanski upravni okrug,Šabac - grad,Škola primenjenih umetnosti,16,16,0,266,188,48,37.28,59,48.97
+1437,Mačvanski upravni okrug,Bogatić,Mačvanska srednja škola - Bogatić,23,0,0,621,273,70,51.31,87,68.31
+1438,Mačvanski upravni okrug,Koceljeva,Srednja škola,18,6,0,466,197,43,34.2632,58,49.3032
+1439,Mačvanski upravni okrug,Vladimirci,Posavotamnavska srednja škola,19,6,0,477,190,54,39.3685,71,55.9439
+1440,Mačvanski upravni okrug,Mali Zvornik,Srednja škola Mali Zvornik,13,3,0,284,190,37,23.35,47,33.5
+1441,Rasinski upravni okrug,Aleksandrovac,Srednja škola Sveti Trifun sa domom učenika,27,1,0,710,365,69,57.69,104,97.16
+1442,Rasinski upravni okrug,Kruševac - grad,Gimnazija,39,0,0,1110,671,90,76.62,112,99.12
+1443,Rasinski upravni okrug,Kruševac - grad,Ekonomsko-trgovinska škola,32,0,0,926,577,84,63.58,104,83.85
+1444,Rasinski upravni okrug,Kruševac - grad,Medicinska škola,20,0,0,610,453,75,50.79,85,63.29
+1445,Rasinski upravni okrug,Kruševac - grad,Politehnička škola Milutin Milanković,29,3,0,694,390,94,70.2759,115,91.1259
+1446,Sremski upravni okrug,Sremska Mitrovica - grad,Ekonomska škola 9. Maj,26,0,0,747,458,67,54.0357,84,72.0357
+1447,Sremski upravni okrug,Sremska Mitrovica - grad,Medicinska škola Draginja Nikšić,25,1,0,734,565,90,65.0081,107,84.5081
+1448,Sremski upravni okrug,Sremska Mitrovica - grad,Prehrambeno-šumarska i hemijska škola,23,0,0,453,197,65,48.6172,90,74.6172
+1449,Sremski upravni okrug,Sremska Mitrovica - grad,Srednja tehnička škola Nikola Tesla,27,2,0,707,85,64,53.92,83,74.92
+1451,Sremski upravni okrug,Stara Pazova,Gimnazija Branko Radičević,16,0,0,447,283,40,29.7811,51,40.5811
+1452,Sremski upravni okrug,Stara Pazova,Ekonomsko-trgovinska škola Vuk Karadžić,20,0,0,538,392,54,37.64,64,47.64
+1453,Sremski upravni okrug,Stara Pazova,Tehnička škola,20,2,0,532,92,51,42.55,62,54.55
+1454,Sremski upravni okrug,Šid,Gimnazija Sava Šumanović,16,0,0,444,270,39,28.7511,48,39.7426
+1455,Sremski upravni okrug,Šid,Tehnička škola Nikola Tesla,16,3,0,344,101,42,31.7,55,45.75
+1456,Grad Beograd,Beograd - Stari Grad,Prva beogradska gimnazija,35,0,0,1015,579,78,65.0637,101,87.7237
+1457,Grad Beograd,Beograd - Stari Grad,Matematička gimnazija,24,0,0,493,170,84,58.3999,100,74.8999
+1458,Grad Beograd,Beograd - Stari Grad,Prva ekonomska škola,29,0,0,858,549,60,52.3277,79,71.3277
+1459,Grad Beograd,Beograd - Stari Grad,Trgovačka škola,40,0,0,1029,616,90,77.7387,114,102.3487
+1460,Grad Beograd,Beograd - Stari Grad,Pravno-poslovna škola Beograd,27,0,0,837,599,68,53.88,82,68.3789
+1461,Grad Beograd,Beograd - Stari Grad,Vazduhoplovna akademija,33,8,0,809,315,85,81.8,108,108.8
+1462,Grad Beograd,Beograd - Stari Grad,Elektrotehnička škola Nikola Tesla,66,0,0,1899,153,149,147.6215,183,184.6215
+1463,Grad Beograd,Beograd - Stari Grad,Tehnička škola DRVO ART,23,3,0,511,286,65,58.1,84,79.0
+1464,Grad Beograd,Beograd - Stari Grad,Elektrotehnička škola Stari grad,23,3,0,643,14,60,47.2438,77,64.9438
+1467,Grad Beograd,Beograd - Savski Venac,Filološka gimnazija,28,8,0,618,536,100,89.83,114,105.13
+1468,Grad Beograd,Beograd - Savski Venac,Gimnazija Sveti Sava,29,0,0,865,484,62,55.8998,76,73.0944
+1469,Grad Beograd,Beograd - Savski Venac,Četvrta beogradska gimnazija,25,0,0,750,429,53,47.937,64,61.437
+1470,Grad Beograd,Beograd - Savski Venac,Medicinska škola Beograd,54,0,8,1603,1304,148,138.6968,175,168.1968
+1471,Grad Beograd,Beograd - Zvezdara,Zubotehnička škola,24,0,0,749,566,79,67.574,99,91.374
+1472,Grad Beograd,Beograd - Savski Venac,Ugostiteljsko-turistička škola,37,0,0,1117,520,109,94.5173,191,184.5228
+1473,Grad Beograd,Beograd - Savski Venac,"Škola za brodarstvo, brodogradnju i hidrogradnju",16,1,0,394,54,44,32.74,56,45.54
+1474,Grad Beograd,Beograd - Voždovac,Tehnička škola za dizajn kože,14,2,0,254,187,44,35.0654,58,48.5654
+1475,Grad Beograd,Beograd - Savski Venac,Škola za dizajn,20,0,0,416,342,61,51.7292,74,65.7292
+1476,Grad Beograd,Beograd - Voždovac,Dvanaesta beogradska gimnazija,32,0,0,907,525,64,57.6884,83,78.1884
+1477,Grad Beograd,Beograd - Voždovac,Osma beogradska gimnazija,34,0,0,924,507,74,62.0476,95,83.0476
+1478,Grad Beograd,Beograd - Voždovac,Druga ekonomska škola,43,0,0,1290,739,86,80.3812,103,98.4012
+1479,Grad Beograd,Beograd - Voždovac,Škola za negu lepote,39,0,0,947,758,94,83.7488,119,109.4488
+1480,Grad Beograd,Beograd - Voždovac,Geološka i hidrometeorološka škola Milutin Milanković,20,0,0,504,291,46,37.4067,60,51.4067
+1481,Grad Beograd,Beograd - Voždovac,Škola za dizajn tekstila,19,0,0,450,403,65,55.11,84,74.11
+1482,Grad Beograd,Beograd - Vračar,Treća beogradska gimnazija,40,0,0,1193,741,83,71.89,102,93.48
+1483,Grad Beograd,Beograd - Vračar,Četrnaesta beogradska gimnazija,32,0,0,1039,661,69,59.7377,85,75.7377
+1484,Grad Beograd,Beograd - Vračar,Tehnička škola GSP,50,3,0,1302,129,121,115.7892,155,152.7892
+1488,Grad Beograd,Beograd - Palilula,Peta beogradska gimnazija,38,0,0,1155,728,74,66.3213,93,86.1713
+1489,Grad Beograd,Beograd - Palilula,Srednja tehnička PTT škola,26,0,0,733,247,68,60.4433,84,78.5933
+1490,Grad Beograd,Beograd - Palilula,Poljoprivredna škola sa domom učenika PK Beograd,23,1,0,572,314,68,60.0556,114,108.0056
+1491,Grad Beograd,Beograd - Palilula,Železnička tehnička škola,27,3,0,637,192,85,54.8211,100,73.9851
+1492,Grad Beograd,Beograd - Palilula,Elektrotehnička škola Rade Končar,44,0,0,1143,47,99,92.218,121,117.768
+1493,Grad Beograd,Beograd - Zvezdara,Šesta beogradska gimnazija,37,0,0,1118,660,78,69.8248,100,94.0181
+1494,Grad Beograd,Beograd - Zvezdara,Medicinska škola,52,0,0,1598,1204,142,128.7156,173,164.1045
+1495,Grad Beograd,Beograd - Vračar,Arhitektonska tehnička škola,24,0,0,671,371,65,54.32,86,75.82
+1496,Grad Beograd,Beograd - Zvezdara,Građevinsko tehnička škola Branko Žeželj,16,0,0,346,102,43,34.4563,61,52.9563
+1497,Grad Beograd,Beograd - Zvezdara,Građevinska škola,25,9,0,484,48,57,47.9573,73,64.9573
+1498,Grad Beograd,Beograd - Zvezdara,Tehnoart Beograd - škola za mašinstvo i umetničke zanate,35,9,0,856,220,103,95.6091,127,120.1091
+1499,Grad Beograd,Beograd - Rakovica,"Gimnazija ""Patrijarh Pavle""",34,0,0,1017,581,70,64.3048,88,82.9066
+1500,Grad Beograd,Beograd - Rakovica,Peta ekonomska škola Rakovica,16,0,0,484,291,40,30.789,52,42.789
+1501,Grad Beograd,Beograd - Rakovica,Mašinska škola Radoje Dakić,20,0,0,462,34,53,45.2784,76,67.1084
+1503,Grad Beograd,Beograd - Čukarica,Trinaesta beogradska gimnazija,36,0,0,1123,709,76,65.4278,93,85.9278
+1504,Grad Beograd,Beograd - Čukarica,Hemijsko-prehrambena tehnološka škola,37,0,0,876,566,99,87.3255,127,117.4105
+1505,Grad Beograd,Beograd - Čukarica,Tehnička škola,16,3,0,382,33,46,36.9149,66,56.7049
+1507,Grad Beograd,Beograd - Novi Beograd,Deveta gimnazija Mihailo Petrović Alas,32,0,0,991,565,67,59.0933,83,76.5933
+1508,Grad Beograd,Beograd - Novi Beograd,Deseta gimnazija Mihajlo Pupin,36,0,0,1104,701,78,64.53,97,82.53
+1509,Grad Beograd,Beograd - Zemun,Politehnika - škola za nove tehnologije,27,0,0,650,116,72,63.5278,99,90.0278
+1510,Grad Beograd,Beograd - Novi Beograd,Srednja turistička škola,27,0,0,836,405,72,63.01,88,80.51
+1511,Grad Beograd,Beograd - Novi Beograd,Tehnička škola Novi Beograd,21,0,0,528,177,54,42.8334,80,69.3334
+1512,Grad Beograd,Beograd - Novi Beograd,Grafička škola,32,0,0,907,506,76,69.1068,98,94.3568
+1513,Grad Beograd,Beograd - Zemun,Zemunska gimnazija,45,0,0,1306,714,96,87.7505,119,110.3705
+1514,Grad Beograd,Beograd - Zemun,Ekonomska škola Nada Dimić,18,0,0,552,325,44,34.62,57,46.62
+1515,Grad Beograd,Beograd - Zemun,Medicinska škola Nadežda Petrović,31,0,0,905,748,94,81.9817,115,102.2817
+1516,Grad Beograd,Beograd - Zemun,Elektrotehnička škola Zemun,28,3,0,786,45,69,69.2967,91,90.7967
+1517,Grad Beograd,Beograd - Novi Beograd,Tehnička škola Zmaj,18,0,0,427,101,52,43.2154,72,63.2154
+1518,Grad Beograd,Beograd - Zemun,Saobraćajno-tehnička škola,49,0,0,1318,286,123,109.1233,162,150.2233
+1519,Grad Beograd,Beograd - Zemun,Pravno-birotehnička škola Dimitrije Davidović,22,0,0,683,418,56,44.67,69,58.67
+1521,Grad Beograd,Beograd - Mladenovac,Gimnazija,21,0,0,570,328,47,38.4221,60,51.6432
+1522,Grad Beograd,Beograd - Mladenovac,Tehnička škola,30,7,4,626,119,73,60.3075,95,84.6075
+1523,Grad Beograd,Beograd - Barajevo,Srednja škola,23,4,0,581,318,63,50.751,83,70.351
+1524,Grad Beograd,Beograd - Grocka,Srednja škola,26,6,0,659,411,64,51.7219,83,70.7219
+1525,Grad Beograd,Beograd - Obrenovac,Gimnazija u Obrenovcu,16,0,0,477,311,38,29.63,51,43.13
+1526,Grad Beograd,Beograd - Obrenovac,Tehnička škola,29,3,0,806,251,69,60.55,89,81.71
+1527,Grad Beograd,Beograd - Obrenovac,Poljoprivredno-hemijska škola,23,4,0,563,370,63,53.79,84,75.79
+1528,Grad Beograd,Beograd - Sopot,Ekonomsko-trgovinska škola,21,0,0,573,397,53,43.7275,70,63.2275
+1529,Grad Beograd,Beograd - Sopot,Mašinska škola Kosmaj,4,1,0,92,12,19,7.7559,25,12.6559
+1530,Grad Beograd,Beograd - Lazarevac,Gimnazija,20,0,0,544,357,46,39.6212,57,51.6212
+1531,Grad Beograd,Beograd - Lazarevac,Tehnička škola Kolubara,39,0,0,1004,327,90,79.95,115,109.38
+1532,Šumadijski upravni okrug,Aranđelovac,Gimnazija Miloš Savković,18,0,0,497,309,44,33.8467,55,45.8467
+1533,Šumadijski upravni okrug,Aranđelovac,Ekonomsko-ugostiteljska škola Slobodan Minić,19,3,0,552,353,64,50.1643,81,67.0043
+1534,Šumadijski upravni okrug,Aranđelovac,Tehnička škola Mileta Nikolić,27,3,0,737,204,76,60.29,91,78.29
+1535,Šumadijski upravni okrug,Batočina,Srednja škola Nikola Tesla,12,0,0,237,99,39,22.66,47,32.66
+1536,Šumadijski upravni okrug,Kragujevac - grad,Prva kragujevačka gimnazija,45,0,0,1260,728,106,85.41,138,116.61
+1537,Šumadijski upravni okrug,Kragujevac - grad,Druga kragujevačka gimnazija,33,0,0,949,595,75,63.6744,101,91.6244
+1538,Šumadijski upravni okrug,Kragujevac - grad,Trgovinsko-ugostiteljska škola Toza Dragović,28,3,0,744,476,84,69.2379,107,93.7779
+1539,Šumadijski upravni okrug,Kragujevac - grad,Medicinska škola sa domom učenika Sestre Ninković,20,0,0,643,518,70,52.5103,112,94.5103
+1542,Šumadijski upravni okrug,Kragujevac - grad,Prva tehnička škola,50,1,0,1406,441,116,110.069,149,145.069
+1544,Šumadijski upravni okrug,Rača,Srednja škola Đura Jakšić,12,0,0,278,141,39,21.7679,47,32.7679
+1545,Šumadijski upravni okrug,Lapovo,Srednja škola,7,3,0,160,89,26,14.4385,33,21.4385
+1546,Šumadijski upravni okrug,Topola,Srednja škola Kralj Petar Prvi,21,3,0,497,204,58,43.6125,81,66.386
+1547,Pirotski upravni okrug,Bela Palanka,Srednja škola Niketa Remezijanski sa domom učenika,10,0,0,171,86,31,18.0654,40,27.0654
+1548,Pirotski upravni okrug,Dimitrovgrad,Gimnazija Sveti Kirilo i Metodije,15,0,0,242,143,38,29.3299,52,43.6799
+1549,Pirotski upravni okrug,Pirot,Gimnazija Pirot,17,0,0,434,283,49,33.4546,63,47.4546
+1550,Pirotski upravni okrug,Pirot,Ekonomska škola Pirot,16,0,0,455,323,55,36.6297,68,52.5297
+1551,Pirotski upravni okrug,Pirot,Mlekarska škola sa domom učenika Dr. Obren Pejić,10,4,0,173,73,38,26.7703,63,53.1203
+1552,Pirotski upravni okrug,Pirot,Tehnička škola,24,0,0,690,152,74,59.5275,95,83.0275
+1553,Pirotski upravni okrug,Pirot,Srednja stručna škola,7,0,0,176,63,35,18.1053,41,26.1053
+1554,Toplički upravni okrug,Blace,Srednja škola,13,1,0,298,143,46,27.83,61,44.93
+1555,Toplički upravni okrug,Žitorađa,Srednja škola,12,0,0,282,114,48,28.3211,64,42.3155
+1556,Toplički upravni okrug,Prokuplje,Gimnazija,20,0,0,502,325,51,36.3111,67,52.3111
+1557,Pomoravski upravni okrug,Despotovac,Tehnička škola,15,4,0,322,128,43,32.3594,55,45.8594
+1558,Pomoravski upravni okrug,Paraćin,Gimnazija,14,0,0,358,201,39,25.2601,52,35.7426
+1559,Pomoravski upravni okrug,Paraćin,Ekonomsko-trgovinska škola,21,2,0,569,331,63,47.0,76,59.5
+1560,Pomoravski upravni okrug,Paraćin,Mašinsko-elektrotehnička škola,17,1,0,427,43,47,33.7445,60,47.4945
+1561,Pomoravski upravni okrug,Paraćin,Tehnološka škola,19,3,0,480,347,60,43.21,75,57.5
+1562,Pomoravski upravni okrug,Rekovac,Poljoprivredno-veterinarska škola,12,0,0,254,119,36,25.689,82,69.239
+1563,Pomoravski upravni okrug,Jagodina - grad,Gimnazija Svetozar Marković,28,0,0,713,417,75,56.8277,92,74.7677
+1564,Pomoravski upravni okrug,Jagodina - grad,Ekonomsko-trgovinska škola Slavka Đurđević,26,1,0,737,459,70,54.6491,89,74.1491
+1565,Pomoravski upravni okrug,Jagodina - grad,Prva tehnička škola,21,7,4,438,167,62,50.9433,80,68.4433
+1566,Pomoravski upravni okrug,Jagodina - grad,Elektrotehnička i građevinska škola Nikola Tesla,30,0,0,835,212,80,70.2345,101,93.229
+1567,Pomoravski upravni okrug,Svilajnac,Poljoprivredno-veterinarska škola sa domom učenika Svilajnac,27,3,0,666,312,74,67.5887,167,162.983
+1568,Pomoravski upravni okrug,Svilajnac,Srednja škola,14,6,0,404,151,37,28.0731,45,38.1274
+1569,Pomoravski upravni okrug,Ćuprija,Gimnazija,12,0,0,328,193,37,22.16,48,33.41
+1570,Pomoravski upravni okrug,Ćuprija,Medicinska škola,16,0,0,513,365,71,45.524,84,58.944
+1571,Pomoravski upravni okrug,Ćuprija,Tehnička škola,12,1,0,284,87,44,25.86,53,36.27
+1573,Braničevski upravni okrug,Veliko Gradište,Srednja škola Miloje Vasić,19,3,0,410,223,45,32.8267,57,47.3267
+1574,Braničevski upravni okrug,Kučevo,Ekonomsko-trgovinska i mašinska škola,11,3,0,226,124,33,22.2733,41,32.07
+1575,Braničevski upravni okrug,Petrovac na Mlavi,Srednja škola Mladost,19,0,0,468,266,44,35.0179,56,49.5124
+1576,Braničevski upravni okrug,Požarevac,Požarevačka gimnazija,24,0,0,721,426,56,44.54,71,61.04
+1577,Braničevski upravni okrug,Požarevac,Ekonomsko-trgovinska škola,29,0,0,815,498,68,50.58,85,69.08
+1578,Braničevski upravni okrug,Požarevac,Medicinska škola,16,0,0,485,388,72,42.7913,85,56.7913
+1579,Braničevski upravni okrug,Požarevac,Poljoprivredna škola sa domom učenika Sonja Marinković,18,5,0,396,197,56,45.35,114,105.09
+1580,Braničevski upravni okrug,Kostolac,Tehnička škola sa domom učenika Nikola Tesla,32,2,0,763,137,78,65.555,113,106.655
+1581,Braničevski upravni okrug,Požarevac,Politehnička škola,17,3,0,482,107,47,36.25,58,48.4
+1583,Braničevski upravni okrug,Žagubica,Tehnička škola,11,0,0,187,86,26,18.7696,34,26.7696
+1584,Podunavski upravni okrug,Smederevska Palanka,Palanačka gimnazija,19,0,0,509,303,46,34.1433,58,48.1266
+1585,Podunavski upravni okrug,Smederevska Palanka,Mašinsko-elektrotehnička škola Goša,19,0,0,499,65,55,44.8533,71,60.6033
+1586,Podunavski upravni okrug,Smederevska Palanka,Srednja škola Žikica Damnjanović,20,5,0,464,340,86,54.2527,100,69.7527
+1587,Podunavski upravni okrug,Velika Plana,Gimnazija Velika Plana,12,0,0,276,178,33,21.98,42,31.98
+1588,Podunavski upravni okrug,Velika Plana,Ekonomsko-ugostiteljska škola Vuk Karadžić,18,3,0,486,292,56,40.65,69,52.8
+1589,Podunavski upravni okrug,Velika Plana,Tehnička škola Nikola Tesla,17,3,0,407,94,52,35.68,65,48.73
+1590,Podunavski upravni okrug,Smederevo - grad,Gimnazija,30,0,0,722,488,67,54.84,85,71.74
+1591,Podunavski upravni okrug,Smederevo - grad,Ekonomsko-trgovinska škola,35,3,0,979,620,93,81.9079,122,109.6779
+1592,Podunavski upravni okrug,Smederevo - grad,Tehnička škola,51,6,4,1263,246,135,122.89,174,165.59
+1593,Podunavski upravni okrug,Smederevo - grad,Tekstilno-tehnološka i poljoprivredna škola Despot Đurađ,26,2,0,621,366,77,63.81,108,94.1
+1595,Zlatiborski upravni okrug,Arilje,Srednja škola Sveti Ahilije,19,3,0,448,223,52,39.5582,63,51.0582
+1596,Zlatiborski upravni okrug,Bajina Bašta,Gimnazija Josif Pančić,12,0,0,351,201,36,23.0658,47,33.4658
+1597,Zlatiborski upravni okrug,Bajina Bašta,Tehnička škola,17,4,0,428,163,53,37.5262,68,52.5973
+1598,Zlatiborski upravni okrug,Kosjerić,Tehnička škola,9,0,0,231,106,29,16.9186,38,25.4186
+1601,Zlatiborski upravni okrug,Požega,Gimnazija Sveti Sava,16,0,0,443,274,41,30.73,49,40.73
+1602,Zlatiborski upravni okrug,Požega,Poljoprivredna škola sa domom učenika Ljubo Mićić,16,5,0,345,123,48,41.227,85,82.227
+1603,Zlatiborski upravni okrug,Požega,Tehnička škola,20,1,0,494,156,59,44.67,71,59.17
+1604,Zlatiborski upravni okrug,Priboj,Gimnazija Priboj,12,0,0,338,205,35,21.8244,47,33.5177
+1605,Zlatiborski upravni okrug,Priboj,Mašinsko-elektrotehnička škola,15,2,0,391,168,49,33.69,62,48.1565
+1606,Zlatiborski upravni okrug,Prijepolje,Prijepoljska gimnazija,13,0,0,332,190,36,23.9556,49,38.6556
+1607,Zlatiborski upravni okrug,Prijepolje,Ekonomsko-trgovinska škola,15,3,0,433,253,44,32.2608,61,47.7608
+1608,Zlatiborski upravni okrug,Prijepolje,Tehnička škola,14,3,0,324,85,42,31.5721,57,48.0721
+1609,Zlatiborski upravni okrug,Sjenica,Gimnazija Jezdimir Lović,16,0,0,424,265,42,30.49,52,41.99
+1610,Zlatiborski upravni okrug,Sjenica,Tehničko-poljoprivredna škola,21,5,0,565,195,79,54.51,99,74.61
+1611,Zlatiborski upravni okrug,Užice - grad,Užička gimnazija,28,0,0,830,519,62,49.9387,78,64.9387
+1612,Zlatiborski upravni okrug,Užice - grad,Ekonomska škola,24,0,0,689,467,65,47.8855,83,64.8855
+1613,Zlatiborski upravni okrug,Užice - grad,Medicinska škola,24,0,0,729,591,85,62.82,106,87.07
+1614,Zlatiborski upravni okrug,Užice - grad,Tehnička škola Radoje Ljubičić,25,3,3,558,231,68,56.0502,85,75.5502
+1615,Zlatiborski upravni okrug,Užice - grad,Tehnička škola,34,1,2,904,140,99,82.1342,119,106.5742
+1616,Zlatiborski upravni okrug,Čajetina,Ugostiteljsko-turistička škola,14,1,0,353,190,36,29.8157,46,41.1157
+1617,Kolubarski upravni okrug,Valjevo - grad,Valjevska gimnazija,30,0,0,767,470,83,60.1722,99,78.5722
+1618,Kolubarski upravni okrug,Valjevo - grad,Ekonomska škola Valjevo,34,5,0,856,516,89,67.23,116,95.88
+1619,Kolubarski upravni okrug,Valjevo - grad,Medicinska škola Dr Miša Pantić,23,2,0,667,514,86,60.1463,101,75.5061
+1620,Kolubarski upravni okrug,Valjevo - grad,Tehnička škola,33,4,0,948,215,90,75.85,115,104.85
+1621,Kolubarski upravni okrug,Valjevo - grad,Poljoprivredna škola sa domom učenika Valjevo,24,3,0,668,307,63,52.5,110,100.5
+1623,Kolubarski upravni okrug,Lajkovac,Srednja škola 17. septembar,15,3,0,397,146,44,32.38,61,49.88
+1624,Kolubarski upravni okrug,Ljig,Srednja škola 1300 kaplara - Ljig,12,4,0,284,167,34,24.43,42,33.93
+1625,Kolubarski upravni okrug,Ub,Gimnazija Branislav Petronijević,8,0,0,191,125,23,14.06,31,20.56
+1626,Mačvanski upravni okrug,Loznica - grad,Gimnazija Vuk Karadžić,25,0,0,700,437,59,46.0522,76,61.5522
+1627,Mačvanski upravni okrug,Loznica - grad,Srednja ekonomska škola,33,4,1,910,557,96,68.9,115,91.73
+1628,Mačvanski upravni okrug,Loznica - grad,Tehnička škola,28,12,0,789,58,72,57.25,89,75.75
+1629,Rasinski upravni okrug,Kruševac - grad,Hemijsko-tehnološka škola,36,2,0,833,469,105,86.4491,131,112.4491
+1630,Rasinski upravni okrug,Kruševac - grad,Prva tehnička škola,40,5,0,1097,118,110,92.17,135,121.17
+1632,Rasinski upravni okrug,Trstenik,Gimnazija Vuk Karadžić,16,0,0,400,232,43,28.9221,51,38.9121
+1633,Rasinski upravni okrug,Trstenik,Tehnička škola,28,3,0,710,200,75,63.14,96,83.89
+1634,Rasinski upravni okrug,Varvarin,Srednja škola,18,2,0,401,198,49,35.142,61,49.142
+1635,Moravički upravni okrug,Gornji Milanovac,Gimnazija Takovski ustanak,16,0,0,446,275,39,29.01,50,41.01
+1636,Moravički upravni okrug,Gornji Milanovac,Ekonomsko-trgovačka škola Knjaz Miloš,15,0,0,386,255,43,30.39,52,40.89
+1637,Moravički upravni okrug,Gornji Milanovac,Tehnička škola Jovan Žujović,16,3,0,392,80,49,34.19,67,54.04
+1638,Moravički upravni okrug,Čačak - grad,Gimnazija,38,0,0,1142,693,84,69.09,107,93.59
+1639,Moravički upravni okrug,Čačak - grad,Ekonomska škola,28,0,0,799,548,73,59.82,87,76.32
+1640,Moravički upravni okrug,Čačak - grad,Medicinska škola,20,0,0,616,510,84,52.7,97,68.1
+1641,Moravički upravni okrug,Čačak - grad,Tehnička škola,31,3,0,820,148,76,67.3056,97,89.3056
+1642,Moravički upravni okrug,Čačak - grad,Mašinsko-saobraćajna škola,40,9,0,999,222,110,95.19,136,124.11
+1643,Moravički upravni okrug,Ivanjica,Gimnazija,16,0,0,466,288,52,30.1811,67,46.9811
+1644,Moravički upravni okrug,Ivanjica,Tehnička škola,19,4,0,456,176,52,41.0774,63,55.5774
+1645,Moravički upravni okrug,Lučani,Srednja škola Dragačevo,16,0,0,387,185,46,35.68,65,56.68
+1646,Raški upravni okrug,Kraljevo - grad,Gimnazija,37,0,0,951,605,102,76.725,120,97.125
+1647,Raški upravni okrug,Kraljevo - grad,Ekonomsko-trgovinska škola,19,0,0,571,335,50,39.1244,64,54.1244
+1648,Raški upravni okrug,Kraljevo - grad,Medicinska škola,20,0,0,627,493,79,54.1731,95,70.7831
+1649,Raški upravni okrug,Kraljevo - grad,Mašinska tehnička škola 14. oktobar,23,3,0,573,105,72,53.0,92,74.32
+1650,Raški upravni okrug,Kraljevo - grad,Elektro-saobraćajna tehnička škola Nikola Tesla,26,3,0,726,119,74,57.11,90,74.95
+1651,Raški upravni okrug,Kraljevo - grad,Poljoprivredno-hemijska škola Dr Đorđe Radić,26,3,0,695,401,79,61.09,105,89.74
+1652,Raški upravni okrug,Kraljevo - grad,Šumarska škola,24,0,0,547,137,75,56.1551,92,73.7748
+1654,Raški upravni okrug,Vrnjačka Banja,Gimnazija,16,0,0,370,222,38,28.4956,49,40.6956
+1655,Raški upravni okrug,Vrnjačka Banja,Ugostiteljsko-turistička škola sa domom učenika,27,0,0,752,366,72,59.63,120,110.73
+1656,Raški upravni okrug,Novi Pazar - grad,Gimnazija,41,0,0,1224,726,88,75.5944,111,99.7244
+1657,Raški upravni okrug,Novi Pazar - grad,Ekonomsko-trgovinska škola,40,3,0,1194,679,102,87.61,130,114.61
+1658,Raški upravni okrug,Novi Pazar - grad,Škola za dizajn tekstila i kože,30,0,3,621,324,91,74.92,111,94.92
+1659,Raški upravni okrug,Novi Pazar - grad,Tehnička škola,41,0,0,972,92,111,90.9011,132,113.6011
+1660,Raški upravni okrug,Raška,Gimnazija,16,0,0,367,208,51,28.4165,61,38.8805
+1661,Raški upravni okrug,Raška,Srednja škola Kraljica Jelena,18,0,2,357,163,48,31.5356,63,45.9956
+1662,Raški upravni okrug,Tutin,Gimnazija,19,0,0,527,286,52,37.8438,70,50.3438
+1663,Raški upravni okrug,Tutin,Tehnička škola,31,3,0,625,174,83,62.2387,107,82.1388
+1664,Borski upravni okrug,Bor,Gimnazija Bora Stanković,12,0,0,303,213,29,21.2997,40,32.7997
+1665,Borski upravni okrug,Bor,Ekonomsko-trgovinska škola,15,1,2,351,265,48,29.6055,59,41.0555
+1666,Borski upravni okrug,Bor,Tehnička škola,14,0,0,298,169,48,29.892,61,43.892
+1667,Borski upravni okrug,Bor,Mašinsko-elektrotehnička škola,23,0,0,592,104,59,50.0849,73,65.4849
+1668,Borski upravni okrug,Majdanpek,Gimnazija Mile Arsenijević Bandera,4,0,0,82,67,26,7.0399,30,11.7399
+1669,Borski upravni okrug,Majdanpek,Tehnička škola,14,0,0,298,98,43,31.1699,55,44.6699
+1672,Borski upravni okrug,Negotin,Negotinska gimnazija,13,0,1,292,153,37,23.5008,46,35.0008
+1673,Borski upravni okrug,Negotin,Poljoprivredna škola sa domom učenika Rajko Bosnić,15,1,0,348,216,47,35.878,93,80.958
+1674,Borski upravni okrug,Negotin,Tehnička škola,11,3,0,252,47,44,23.6463,53,34.6463
+1675,Zaječarski upravni okrug,Zaječar - grad,Gimnazija,15,0,1,353,225,46,27.9168,57,38.9168
+1676,Zaječarski upravni okrug,Zaječar - grad,Ekonomsko-trgovinska škola,21,2,0,573,391,71,50.3478,88,68.6478
+1677,Zaječarski upravni okrug,Zaječar - grad,Medicinska škola,19,0,0,566,426,98,54.22,109,67.22
+1678,Zaječarski upravni okrug,Zaječar - grad,Tehnička škola,26,0,0,693,124,73,57.9467,89,77.0167
+1679,Zaječarski upravni okrug,Boljevac,Srednja škola Nikola Tesla,12,0,0,183,73,35,19.6391,45,30.6391
+1680,Zaječarski upravni okrug,Knjaževac,Knjaževačka gimnazija,11,0,0,239,137,32,19.5693,40,28.7693
+1681,Zaječarski upravni okrug,Knjaževac,Tehnička škola,18,2,0,451,197,60,43.9868,77,60.0468
+1682,Zaječarski upravni okrug,Sokobanja,Srednja škola Branislav Nušić,15,3,0,325,186,48,34.1019,59,48.1019
+1683,Jablanički upravni okrug,Leskovac - grad,Gimnazija,29,0,0,824,486,68,52.6277,80,66.4277
+1684,Jablanički upravni okrug,Leskovac - grad,Ekonomska škola Đuka Dinić,22,0,0,676,452,62,42.992,73,55.992
+1685,Jablanički upravni okrug,Leskovac - grad,Trgovinsko-ugostiteljska škola,29,0,0,838,389,91,66.6402,108,85.9402
+1686,Jablanički upravni okrug,Leskovac - grad,Medicinska škola,24,0,0,754,548,86,59.3642,101,74.7365
+1687,Jablanički upravni okrug,Leskovac - grad,Tehnička škola Rade Metalac,46,1,0,1300,256,131,104.8375,164,139.8375
+1688,Jablanički upravni okrug,Leskovac - grad,Škola za tekstil i dizajn,20,2,0,337,204,71,48.0559,95,75.1412
+1689,Jablanički upravni okrug,Leskovac - grad,Hemijsko-tehnološka škola Božidar Đorđević Kukar,18,3,0,426,305,63,41.7569,79,59.3552
+1690,Jablanički upravni okrug,Leskovac - grad,Poljoprivredna škola,11,3,0,172,47,41,26.1211,61,46.5611
+1691,Jablanički upravni okrug,Leskovac - grad,Srednja škola Svetozar Krstić Toza,5,3,0,80,20,29,10.8095,37,18.3095
+1692,Jablanički upravni okrug,Leskovac - grad,Srednja škola,10,1,0,190,80,42,20.2332,49,28.7332
+1694,Jablanički upravni okrug,Vlasotince,Gimnazija Stevan Jakovljević,14,0,0,339,194,38,25.7476,50,37.2476
+1695,Jablanički upravni okrug,Vlasotince,Tehnička škola,24,2,0,586,241,72,52.2091,91,70.704
+1696,Jablanički upravni okrug,Medveđa,Tehnička škola Nikola Tesla,15,0,0,186,84,40,24.8119,51,37.1119
+1697,Jablanički upravni okrug,Lebane,Gimnazija,10,0,0,226,124,35,18.6189,49,31.6189
+1698,Jablanički upravni okrug,Lebane,Srednja tehnička škola Vožd Karađorđe,15,1,0,387,148,59,33.337,75,48.4237
+1699,Jablanički upravni okrug,Bojnik,Tehnička škola Boško Krstić,12,0,0,253,137,41,25.2844,55,39.7844
+1700,Jablanički upravni okrug,Crna Trava,Tehnička škola sa domom učenika Milentije Popović,7,0,0,103,34,25,13.7055,46,35.7055
+1701,Pčinjski upravni okrug,Vranje,Gimnazija Bora Stanković,25,0,0,743,443,66,47.2335,84,66.7335
+1702,Pčinjski upravni okrug,Vranje,Ekonomsko-trgovinska škola,28,3,0,859,491,86,63.4557,102,80.9557
+1703,Pčinjski upravni okrug,Vranje,Medicinska škola Dr Izabel Emsli Haton,16,0,0,500,359,55,34.4687,66,46.9687
+1704,Pčinjski upravni okrug,Vranje,Tehnička škola,27,2,0,764,116,78,60.8994,91,76.3794
+1705,Pčinjski upravni okrug,Vranje,Hemijsko-tehnološka škola,15,0,0,385,240,52,32.6047,66,46.6047
+1706,Pčinjski upravni okrug,Vranje,Srednja poljoprivredno-veterinarska škola Stevan Sinđelić,12,0,0,281,130,42,29.0444,55,42.5944
+1708,Pčinjski upravni okrug,Bujanovac,Stručna škola Sveti Sava,19,2,0,406,206,60,42.4248,75,56.9781
+1709,Pčinjski upravni okrug,Bujanovac,Srednja škola Sezai Suroi,38,2,0,969,422,97,74.2221,123,102.7211
+1710,Pčinjski upravni okrug,Vladičin Han,Gimnazija Jovan Skerlić,9,0,0,224,145,25,16.3195,44,34.0072
+1711,Pčinjski upravni okrug,Vladičin Han,Tehnička škola,16,1,0,406,93,59,33.3925,77,51.8925
+1712,Pčinjski upravni okrug,Surdulica,Gimnazija Svetozar Marković,6,0,0,134,83,20,10.717,28,17.717
+1713,Pčinjski upravni okrug,Surdulica,Tehnička škola Nikola Tesla,16,0,0,433,163,47,35.8273,62,52.4073
+1714,Pčinjski upravni okrug,Surdulica,Poljoprivredno-šumarska škola Josif Pančić,11,0,0,227,100,49,27.235,65,44.225
+1715,Pčinjski upravni okrug,Bosilegrad,Gimnazija,12,0,0,213,107,30,25.0109,38,33.2109
+1716,Pčinjski upravni okrug,Preševo,Gimnazija Skenderbeu,31,0,0,818,495,86,58.4607,103,75.9607
+1717,Pčinjski upravni okrug,Preševo,Srednja tehnička škola Preševo,36,5,0,946,337,119,88.3129,143,113.8129
+1718,Pčinjski upravni okrug,Trgovište,Srednja stručna škola Milutin Bojić,4,0,0,80,44,15,7.2667,20,12.6
+1721,Toplički upravni okrug,Prokuplje,Medicinska škola Dr. Aleksa Savić,16,0,0,487,357,65,42.1443,77,56.6443
+1722,Toplički upravni okrug,Prokuplje,Tehnička škola 15.maj,24,3,0,654,162,74,53.6837,92,71.6613
+1723,Toplički upravni okrug,Prokuplje,Poljoprivredna škola Radoš Jovanović Selja,17,0,0,425,207,54,41.3209,75,62.8609
+1726,Nišavski upravni okrug,Aleksinac,Aleksinačka gimnazija,16,0,0,363,209,41,29.5889,54,43.9889
+1727,Nišavski upravni okrug,Aleksinac,Tehnička škola Prota Stevan Dimitrijević,23,3,0,674,254,72,51.5056,94,75.5056
+1728,Nišavski upravni okrug,Aleksinac,Poljoprivredna škola Šumatovac,11,4,0,227,106,37,26.8945,50,39.8945
+1729,Nišavski upravni okrug,Svrljig,Stručna škola Dušan Trivunac Dragoš,12,0,0,223,80,40,21.5367,50,33.6067
+1730,Nišavski upravni okrug,Niš - Medijana,Prva niška gimnazija Stevan Sremac,24,0,4,676,431,66,51.8999,79,65.3999
+1731,Nišavski upravni okrug,Niš - Medijana,Gimnazija Bora Stanković,26,0,3,747,393,64,48.2492,77,61.7492
+1732,Nišavski upravni okrug,Niš - Palilula,Gimnazija Svetozar Marković,38,4,0,985,547,121,75.4006,139,96.9006
+1733,Nišavski upravni okrug,Niš - Medijana,Gimnazija Deveti maj,24,0,0,710,404,62,45.5776,74,58.0776
+1734,Nišavski upravni okrug,Niš - Medijana,Ekonomska škola,40,0,0,1068,711,102,76.1443,131,105.111
+1735,Nišavski upravni okrug,Niš - Medijana,Pravno-poslovna škola,24,0,0,717,451,66,50.3096,81,65.8096
+1736,Nišavski upravni okrug,Niš - Medijana,Trgovinska škola,16,0,0,350,202,60,36.3969,76,53.3969
+1737,Nišavski upravni okrug,Niš - Medijana,Ugostiteljsko-turistička škola,24,3,0,669,309,77,58.0572,95,77.7072
+1738,Nišavski upravni okrug,Niš - Medijana,Medicinska škola Dr Milenko Hadžić,32,0,0,997,766,90,73.5334,110,95.8334
+1741,Nišavski upravni okrug,Niš - Palilula,Mašinska škola,19,2,3,367,115,48,38.2215,68,55.5215
+1742,Nišavski upravni okrug,Niš - Crveni Krst,Elektrotehnička škola Nikola Tesla,30,1,0,841,56,87,72.8356,111,96.5856
+1743,Nišavski upravni okrug,Niš - Medijana,Elektrotehnička škola Mija Stanimirović,28,0,0,788,70,90,71.3688,107,89.6021
+1744,Nišavski upravni okrug,Niš - Crveni Krst,Građevinska tehnička škola Neimar,16,1,0,374,136,52,36.7221,69,56.2221
+1745,Nišavski upravni okrug,Niš - Medijana,Prehrambeno-hemijska škola,22,3,0,498,281,72,52.8998,86,67.2598
+1746,Nišavski upravni okrug,Niš - Medijana,Škola mode i lepote,17,6,0,377,318,69,42.4477,84,57.9477
+1747,Nišavski upravni okrug,Niš - Medijana,Umetnička škola,16,0,0,314,233,59,41.2001,71,55.5701
+1749,Kosovski upravni okrug,Priština - grad,Gimnazija,8,0,0,146,82,28,17.6339,37,24.1339
+1751,Kosovski upravni okrug,Priština - grad,Medicinska škola,16,0,0,324,231,84,52.067,106,74.567
+1752,Kosovski upravni okrug,Priština - grad,Građevinsko-saobraćajna škola,11,0,0,138,11,43,30.5369,61,49.5369
+1753,Kosovski upravni okrug,Priština - grad,Elektrotehnička škola Mihajlo Pupin,10,0,0,129,8,49,31.4161,65,47.9161
+1754,Kosovski upravni okrug,Priština - grad,Mašinska škola - Priština,5,0,0,31,3,26,10.8681,39,21.3681
+1756,Kosovsko-mitrovački upravni okrug,Vučitrn,Tehnička škola Nikola Tesla,10,4,0,97,17,34,19.5221,43,29.5221
+1760,Kosovski upravni okrug,Lipljan,Poljoprivredna škola,21,0,0,111,37,75,44.9248,102,68.9248
+1761,Kosovski upravni okrug,Štrpce,Ekonomsko-trgovinska škola,28,0,0,425,187,101,70.6947,144,102.1947
+1762,Kosovsko-mitrovački upravni okrug,Kosovska Mitrovica,Gimnazija,13,0,0,253,138,43,27.5611,55,40.0611
+1763,Kosovsko-mitrovački upravni okrug,Kosovska Mitrovica,Ekonomsko-trgovinska škola,15,0,0,166,96,47,34.1744,58,47.1744
+1764,Kosovsko-mitrovački upravni okrug,Kosovska Mitrovica,Medicinska škola,20,0,0,527,359,92,70.7983,127,106.2983
+1765,Kosovsko-mitrovački upravni okrug,Kosovska Mitrovica,Tehnička škola Mihailo Petrović Alas,21,1,0,275,19,57,52.9807,78,74.3607
+1767,Kosovsko-mitrovački upravni okrug,Zvečan,Srednja škola,14,0,0,225,139,42,30.2142,59,46.2142
+1768,Kosovsko-mitrovački upravni okrug,Leposavić,Srednja škola Nikola Tesla,20,0,0,312,112,61,47.1195,80,67.2195
+1769,Kosovsko-mitrovački upravni okrug,Zubin Potok,Srednja škola Grigorije Božović,17,0,0,234,114,52,37.357,69,54.857
+1770,Kosovsko-pomoravski upravni okrug,Gnjilane,Gimnazija,12,0,0,153,68,52,27.5799,67,40.0799
+1771,Kosovsko-pomoravski upravni okrug,Gnjilane,Tehnička škola Dragi Popović,14,0,0,108,22,62,32.2482,88,54.1232
+1772,Kosovsko-pomoravski upravni okrug,Kosovska Kamenica,Gimnazija,12,0,0,100,57,39,24.616,51,36.276
+1773,Kosovsko-pomoravski upravni okrug,Kosovska Kamenica,Tehnička škola,13,0,0,68,27,49,33.3625,64,47.6625
+1774,Kosovsko-pomoravski upravni okrug,Vitina,Tehnička škola,9,0,0,88,41,43,20.2687,59,34.6887
+1775,Prizrenski upravni okrug,Gora,Ekonomsko-trgovinska škola,13,0,0,154,72,23,25.1873,29,32.1873
+1776,Prizrenski upravni okrug,Orahovac,Gimnazija Orahovac,2,0,0,12,5,13,4.7944,20,10.7444
+1777,Pećki upravni okrug,Peć,Gimnazija,7,0,0,17,9,31,14.783,42,24.783
+1778,Pećki upravni okrug,Peć,Ekonomska škola,3,0,0,5,1,12,4.249,12,4.249
+1780,Grad Beograd,Beograd - Zvezdara,Geodetska tehnička škola,19,0,0,512,195,51,45.0122,64,59.1122
+1781,Šumadijski upravni okrug,Kragujevac - grad,Ekonomska škola,20,0,0,617,460,52,41.7191,65,54.7191
+1782,Kolubarski upravni okrug,Ub,Tehnička škola Ub,22,6,0,580,256,61,40.4,74,53.37
+1784,Zlatiborski upravni okrug,Užice - grad,Umetnička škola,7,6,0,92,68,32,18.646,38,25.746
+1786,Severnobanatski upravni okrug,Senta,Srednja medicinska škola,12,0,0,317,251,59,32.8112,68,41.8112
+1787,Rasinski upravni okrug,Brus,Srednja škola,19,3,0,406,227,47,36.2256,61,52.3256
+1789,Raški upravni okrug,Novi Pazar - grad,Medicinska škola,25,0,0,860,620,80,60.995,98,78.495
+1790,Šumadijski upravni okrug,Knić,Srednja škola,8,0,0,178,100,27,16.0414,36,26.0414
+1792,Grad Beograd,Beograd - Stari Grad,Sportska gimnazija,24,0,0,752,289,59,44.0611,75,60.5611
+1793,Grad Beograd,Beograd - Zvezdara,Sedma beogradska gimnazija,26,0,0,738,402,57,47.5633,74,64.9233
+1794,Severnobanatski upravni okrug,Senta,Gimnazija sa domom učenika za talentovane učenike Boljai,9,0,0,166,99,41,25.449,61,50.949
+1796,Severnobački upravni okrug,Subotica - grad,Gimnazija za talentovane učenike Deže Kostolanji,12,0,0,267,192,42,32.3542,51,43.3542
+1797,Grad Beograd,Beograd - Zvezdara,Farmaceutsko - fizioterapeutska škola,27,0,0,796,606,84,74.35,101,92.75
+1798,Moravički upravni okrug,Čačak - grad,Prehrambeno-ugostiteljska škola,24,4,0,720,435,71,56.835,87,75.16
+1799,Kosovski upravni okrug,Priština - grad,Ekonomsko-trgovinska škola Priština,16,0,0,237,150,54,33.8373,66,45.5873
+1804,Kosovsko-mitrovački upravni okrug,Srbica,Tehnička škola,3,0,0,10,6,14,6.5181,25,16.6203
+1805,Kosovsko-mitrovački upravni okrug,Vučitrn,Gimnazija Vučitrn,4,0,0,29,21,25,8.232,30,13.732
+1806,Kosovsko-mitrovački upravni okrug,Vučitrn,Tehnička škola Vučitrn,4,0,0,50,1,26,9.2159,29,11.7159
+1807,Kosovsko-mitrovački upravni okrug,Leposavić,Poljoprivredna škola Priština,13,0,0,89,39,34,30.9479,50,47.4479
+1816,Kosovsko-pomoravski upravni okrug,Kosovska Kamenica,Ekonomsko-trgovinska škola Gnjilane,17,1,0,138,74,92,40.0192,125,66.5192
+1817,Kosovsko-pomoravski upravni okrug,Kosovska Kamenica,Medicinska škola,16,0,0,314,219,90,42.7165,113,61.8415
+1819,Raški upravni okrug,Kraljevo - grad,Umetnička škola u Kraljevu,8,4,0,163,124,32,20.29,44,28.03
+1828,Sremski upravni okrug,Irig,Srednja stručna škola Borislav Mihajlović Mihiz,8,0,0,138,43,32,15.3284,38,22.3284
+1829,Kolubarski upravni okrug,Mionica,Srednja škola Mionica,7,3,0,154,88,26,15.92,35,23.92
+1830,Raški upravni okrug,Novi Pazar - grad,Ugostiteljsko-turistička škola,22,3,0,395,185,56,41.03,64,48.82
+1970,Toplički upravni okrug,Kuršumlija,Kuršumlijsko-podujevska ekonomsko-tehnička škola,17,0,0,344,161,60,34.7959,75,49.7959
+1971,Nišavski upravni okrug,Niš - Crveni Krst,Srednja stručna škola,37,0,0,935,201,112,85.3409,137,114.2309
+1972,Zlatiborski upravni okrug,Nova Varoš,Srednja škola,17,0,0,387,184,53,36.6322,64,49.1278
+1973,Šumadijski upravni okrug,Kragujevac - grad,Srednja stručna škola,62,1,0,1715,516,178,151.5589,221,199.0589
+1974,Borski upravni okrug,Kladovo,Srednja škola,19,3,0,465,210,51,38.861,63,51.861
+1975,Toplički upravni okrug,Kuršumlija,Kuršumlijsko-podujevska gimnazija,15,0,0,294,164,47,27.6394,60,40.6394
+1976,Pirotski upravni okrug,Babušnica,Srednja škola,11,1,0,218,71,36,19.3526,48,33.8726

@@ -1,0 +1,368 @@
+Naziv ustanove,Univerzitet,Nivo,Zvanje,Dužina trajanja programa (u god),Polje_skraceno,Vlasnistvo,Akreditaciona kvota,Broj studenata,Broj prijavljenih kandidata,Broj svršenih studenata tokom prethodne školske godine,Studenti prva godina,Studenti druga godina,Studenti treća godina,Studenti četvrta godina,Studenti peta godina,Studenti šesta godina,Broj budžetskih studenata,Broj samofinansirajućih studenata,Broj stranih studenata,Broj studenata na zavrsnoj godini
+"Agronomski fakultet, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,60.0,174.0,36.0,15.0,50.0,29.0,36.0,28.0,31.0,0.0,132.0,42.0,0.0,28.0
+"Agronomski fakultet, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,40.0,69.0,20.0,3.0,22.0,19.0,14.0,10.0,4.0,0.0,39.0,30.0,0.0,10.0
+"Agronomski fakultet, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Inženjer poljoprivrede,3,TT,Državni fakultet,20.0,23.0,5.0,3.0,6.0,7.0,5.0,5.0,0.0,0.0,20.0,3.0,0.0,5.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani dizajner,4,UM,Državni fakultet,22.0,0.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani dizajner medija u obrazovanju,4,IMT,Državni fakultet,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani dramski i audiovizuelni umetnik,4,UM,Državni fakultet,81.0,87.0,203.0,37.0,21.0,31.0,21.0,14.0,0.0,0.0,68.0,16.0,3.0,14.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani kompozitor,4,UM,Državni fakultet,4.0,8.0,3.0,3.0,2.0,2.0,2.0,2.0,0.0,0.0,8.0,0.0,0.0,2.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,43.0,0.0,48.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani muzički umetnik,4,UM,Državni fakultet,47.0,0.0,75.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akademija umetnosti,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani teoretičar umetnosti,4,DH,Državni fakultet,32.0,94.0,16.0,24.0,25.0,19.0,24.0,26.0,0.0,0.0,88.0,6.0,0.0,26.0
+Arhitektonski fakultet,Univerzitet u Beogradu,Integr. akademske,Master inženjer arhitekture,5,IMT,Državni fakultet,64.0,284.0,65.0,0.0,74.0,54.0,66.0,45.0,45.0,0.0,222.0,61.0,1.0,45.0
+Arhitektonski fakultet,Univerzitet u Beogradu,Osnovne akademske,Inženjer arhitekture,3,TT,Državni fakultet,240.0,805.0,344.0,209.0,273.0,220.0,312.0,0.0,0.0,0.0,583.0,219.0,3.0,312.0
+Biološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani biolog,4,PM,Državni fakultet,230.0,1316.0,316.0,116.0,239.0,217.0,213.0,210.0,437.0,0.0,640.0,676.0,0.0,210.0
+Geografski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani geograf,4,PM,Državni fakultet,130.0,287.0,180.0,64.0,64.0,42.0,36.0,145.0,0.0,0.0,130.0,157.0,0.0,145.0
+Geografski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani demograf,4,IMT,Državni fakultet,50.0,219.0,54.0,16.0,52.0,45.0,42.0,80.0,0.0,0.0,111.0,108.0,0.0,80.0
+Geografski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani prostorni planer,4,IMT,Državni fakultet,50.0,295.0,109.0,41.0,63.0,49.0,46.0,137.0,0.0,0.0,122.0,173.0,0.0,137.0
+Geografski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani turizmolog,4,IMT,Državni fakultet,80.0,439.0,148.0,33.0,86.0,87.0,74.0,192.0,0.0,0.0,189.0,249.0,1.0,192.0
+Građevinski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,340.0,1879.0,342.0,191.0,357.0,366.0,362.0,794.0,0.0,0.0,577.0,1302.0,0.0,794.0
+Građevinski fakultet,Univerzitet u Beogradu,Osnovne akademske,Inženjer geodezije,3,TT,Državni fakultet,60.0,186.0,70.0,41.0,66.0,48.0,72.0,0.0,0.0,0.0,94.0,92.0,0.0,72.0
+"Građevinski fakultet, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer geodezije,4,TT,Državni fakultet,30.0,49.0,22.0,0.0,22.0,5.0,3.0,19.0,0.0,0.0,42.0,7.0,0.0,19.0
+"Građevinski fakultet, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,248.0,400.0,69.0,66.0,73.0,46.0,49.0,232.0,0.0,0.0,239.0,161.0,0.0,232.0
+Građevinsko-arhitektonski fakultet,Univerzitet u Nišu,Integr. akademske,Master inženjer arhitekture,5,TT,Državni fakultet,180.0,0.0,212.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Građevinsko-arhitektonski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer arhitekture (tehničke nauke),4,TT,Državni fakultet,0.0,0.0,0.0,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Građevinsko-arhitektonski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,180.0,77.0,69.0,32.0,77.0,0.0,0.0,0.0,0.0,0.0,75.0,1.0,1.0,0.0
+Departman za biomedicinske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani biolog,4,MD,Državni fakultet,35.0,127.0,34.0,7.0,37.0,29.0,32.0,29.0,0.0,0.0,63.0,64.0,0.0,29.0
+Departman za biomedicinske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (biomedicinske nauke),4,MD,Državni fakultet,35.0,139.0,29.0,9.0,20.0,41.0,31.0,47.0,0.0,0.0,84.0,52.0,3.0,47.0
+Departman za biomedicinske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani terapeut,4,MD,Državni fakultet,35.0,155.0,41.0,4.0,39.0,39.0,39.0,38.0,0.0,0.0,77.0,78.0,0.0,38.0
+Departman za veterinarsku medicinu na Poljoprivrednom fakultetu,Univerzitet u Novom Sadu,Integr. akademske,Doktor veterinarske medicine,5,MD,Državni fakultet,60.0,450.0,97.0,27.0,77.0,41.0,51.0,59.0,222.0,0.0,200.0,249.0,1.0,222.0
+Departman za ekonomske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,100.0,577.0,42.0,15.0,136.0,151.0,140.0,150.0,0.0,0.0,268.0,305.0,4.0,150.0
+Departman za ekonomske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani poslovni informatičar,4,DH,Državni fakultet,40.0,0.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Departman za matematičke nauke,Državni Univerzitet u Novom Pazaru,Integr. akademske,Master profesor matematike,5,PM,Državni fakultet,75.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Departman za matematičke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani matematičar,4,PM,Državni fakultet,75.0,199.0,104.0,5.0,82.0,49.0,31.0,37.0,0.0,0.0,119.0,76.0,4.0,37.0
+Departman za matematičke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani profesor informatike i matematike,4,PM,Državni fakultet,100.0,199.0,37.0,1.0,89.0,43.0,26.0,41.0,0.0,0.0,118.0,81.0,0.0,41.0
+Departman za matematičke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani profesor informatike i fizike,4,PM,Državni fakultet,0.0,61.0,0.0,1.0,0.0,0.0,24.0,37.0,0.0,0.0,28.0,33.0,0.0,37.0
+Departman za matematičke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani profesor matematike i fizike,4,PM,Državni fakultet,70.0,178.0,62.0,2.0,54.0,50.0,26.0,48.0,0.0,0.0,101.0,77.0,0.0,48.0
+Departman za pravne nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,100.0,603.0,57.0,7.0,146.0,157.0,153.0,147.0,0.0,0.0,278.0,318.0,7.0,147.0
+Departman za tehničke nauke,Državni Univerzitet u Novom Pazaru,Integr. akademske,Master inženjer arhitekture,5,TT,Državni fakultet,30.0,30.0,59.0,2.0,30.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,0.0,0.0
+Departman za tehničke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani inženjer arhitekture (tehničke nauke),4,TT,Državni fakultet,0.0,155.0,0.0,19.0,45.0,41.0,34.0,35.0,0.0,0.0,81.0,68.0,6.0,35.0
+Departman za tehničke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,40.0,173.0,53.0,6.0,52.0,47.0,38.0,36.0,0.0,0.0,93.0,77.0,3.0,36.0
+Departman za tehničke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,215.0,299.0,171.0,5.0,123.0,74.0,48.0,54.0,0.0,0.0,190.0,108.0,1.0,54.0
+Departman za umetnost,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,5.0,21.0,9.0,1.0,5.0,5.0,5.0,6.0,0.0,0.0,21.0,0.0,0.0,6.0
+Departman za filozofske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,40.0,113.0,66.0,0.0,48.0,34.0,31.0,0.0,0.0,0.0,53.0,60.0,0.0,0.0
+Departman za filozofske nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani psiholog,4,DH,Državni fakultet,30.0,109.0,53.0,6.0,0.0,25.0,37.0,47.0,0.0,0.0,50.0,59.0,0.0,47.0
+Departman za filološke nauke,Državni Univerzitet u Novom Pazaru,Integr. akademske,Master filolog,5,DH,Državni fakultet,35.0,35.0,35.0,5.0,35.0,0.0,0.0,0.0,0.0,0.0,20.0,15.0,0.0,0.0
+Departman za filološke nauke,Državni Univerzitet u Novom Pazaru,Integr. akademske,Master filolog - anglista,5,DH,Državni fakultet,30.0,30.0,56.0,8.0,30.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,0.0,0.0
+Departman za filološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani filolog engleskog jezika i književnosti,4,DH,Državni fakultet,0.0,166.0,0.0,8.0,58.0,43.0,39.0,26.0,0.0,0.0,64.0,102.0,0.0,26.0
+Departman za filološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani filolog srpske književnosti i jezika,4,DH,Državni fakultet,0.0,174.0,0.0,18.0,59.0,51.0,39.0,25.0,0.0,0.0,84.0,89.0,1.0,25.0
+Departman hemijsko-tehnološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,0.0,194.0,0.0,2.0,63.0,52.0,41.0,38.0,0.0,0.0,98.0,96.0,0.0,38.0
+Departman hemijsko-tehnološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,0.0,205.0,0.0,1.0,72.0,55.0,39.0,39.0,0.0,0.0,102.0,101.0,2.0,39.0
+Departman hemijsko-tehnološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Diplomirani hemičar,4,TT,Državni fakultet,50.0,161.0,26.0,4.0,59.0,41.0,31.0,30.0,0.0,0.0,87.0,74.0,0.0,30.0
+Departman hemijsko-tehnološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Inženjer poljoprivrede,3,TT,Državni fakultet,30.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Departman hemijsko-tehnološke nauke,Državni Univerzitet u Novom Pazaru,Osnovne akademske,Inženjer tehnologije,3,TT,Državni fakultet,30.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ekonomski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,900.0,6162.0,1183.0,759.0,1261.0,856.0,866.0,3179.0,0.0,0.0,2291.0,3869.0,2.0,3179.0
+Ekonomski fakultet,Univerzitet u Beogradu,Osnovne akademske,Ekonomista,3,DH,Državni fakultet,600.0,497.0,1183.0,24.0,167.0,97.0,233.0,0.0,0.0,0.0,0.0,497.0,0.0,233.0
+Ekonomski fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,600.0,2125.0,290.0,272.0,306.0,299.0,350.0,1170.0,0.0,0.0,956.0,1168.0,1.0,1170.0
+Ekonomski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,700.0,2421.0,462.0,320.0,484.0,302.0,369.0,1266.0,0.0,0.0,1205.0,1216.0,0.0,1266.0
+"Ekonomski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,150.0,309.0,72.0,76.0,75.0,83.0,60.0,91.0,0.0,0.0,262.0,47.0,0.0,91.0
+"Ekonomski fakultet, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani ekonomista,4,DH,Državni fakultet,1066.0,2770.0,499.0,553.0,534.0,378.0,499.0,1359.0,0.0,0.0,1535.0,1233.0,2.0,1359.0
+"Ekonomski fakultet, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani poslovni informatičar,4,DH,Državni fakultet,90.0,123.0,80.0,0.0,83.0,40.0,0.0,0.0,0.0,0.0,89.0,34.0,0.0,0.0
+"Ekonomski fakultet, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Ekonomista,3,DH,Državni fakultet,0.0,9.0,0.0,1.0,0.0,1.0,8.0,0.0,0.0,0.0,0.0,9.0,0.0,8.0
+Elektronski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,540.0,2278.0,663.0,172.0,792.0,423.0,308.0,755.0,0.0,0.0,1393.0,885.0,0.0,755.0
+Elektrotehnički fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,540.0,2911.0,1209.0,358.0,967.0,715.0,616.0,613.0,0.0,0.0,1491.0,1419.0,1.0,613.0
+Elektrotehnički fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer softvera,4,TT,Državni fakultet,180.0,804.0,1209.0,71.0,231.0,217.0,151.0,205.0,0.0,0.0,125.0,673.0,6.0,205.0
+Mašinski fakultet,Univerzitet u Beogradu,Osnovne akademske,Inženjer mašinstva,3,TT,Državni fakultet,780.0,2385.0,1138.0,378.0,773.0,640.0,972.0,0.0,0.0,0.0,1274.0,1092.0,19.0,972.0
+Mašinski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer mašinstva,4,TT,Državni fakultet,240.0,665.0,208.0,24.0,212.0,106.0,120.0,227.0,0.0,0.0,364.0,301.0,0.0,227.0
+Mašinski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Državni fakultet,120.0,339.0,81.0,18.0,104.0,55.0,70.0,110.0,0.0,0.0,280.0,59.0,0.0,110.0
+Medicinski fakultet,Univerzitet u Beogradu,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,1280.0,4832.0,1375.0,548.0,1020.0,909.0,660.0,647.0,618.0,978.0,2805.0,1670.0,357.0,978.0
+Medicinski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirana medicinska sestra,4,MD,Državni fakultet,48.0,50.0,7.0,6.0,6.0,9.0,11.0,24.0,0.0,0.0,0.0,50.0,0.0,24.0
+Medicinski fakultet,Univerzitet u Nišu,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,204.0,1532.0,390.0,220.0,257.0,213.0,249.0,200.0,206.0,407.0,1036.0,480.0,16.0,407.0
+Medicinski fakultet,Univerzitet u Nišu,Integr. akademske,Doktor stomatologije,6,MD,Državni fakultet,72.0,497.0,164.0,53.0,91.0,92.0,85.0,59.0,170.0,0.0,248.0,243.0,6.0,0.0
+Medicinski fakultet,Univerzitet u Nišu,Integr. akademske,Magistar farmacije,5,MD,Državni fakultet,72.0,430.0,119.0,51.0,75.0,106.0,60.0,74.0,115.0,0.0,251.0,177.0,2.0,115.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,564.0,2196.0,600.0,203.0,388.0,292.0,310.0,329.0,256.0,621.0,1162.0,853.0,181.0,621.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Integr. akademske,Doktor stomatologije,5,MD,Državni fakultet,144.0,531.0,174.0,62.0,89.0,97.0,89.0,77.0,179.0,0.0,238.0,198.0,95.0,179.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Integr. akademske,Magistar farmacije,5,MD,Državni fakultet,216.0,577.0,143.0,88.0,113.0,119.0,100.0,96.0,149.0,0.0,385.0,188.0,4.0,149.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani defektolog,4,DH,Državni fakultet,72.0,408.0,116.0,53.0,76.0,68.0,76.0,188.0,0.0,0.0,262.0,146.0,0.0,188.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani terapeut rehabilitacije,4,MD,Državni fakultet,45.0,229.0,110.0,39.0,54.0,39.0,43.0,93.0,0.0,0.0,153.0,76.0,0.0,93.0
+Medicinski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Organizator zdravstvene nege,4,MD,Državni fakultet,54.0,275.0,54.0,64.0,55.0,38.0,52.0,130.0,0.0,0.0,172.0,103.0,0.0,130.0
+Medicinski fakultet VMA,Univerzitet odbrane,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,0.0,158.0,0.0,18.0,25.0,25.0,26.0,28.0,29.0,25.0,157.0,0.0,1.0,25.0
+"Medicinski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,80.0,1100.0,194.0,72.0,129.0,167.0,160.0,141.0,79.0,424.0,302.0,789.0,9.0,424.0
+"Medicinski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Integr. akademske,Doktor medicinskih nauka stomatologija,5,MD,Državni fakultet,40.0,435.0,70.0,41.0,67.0,54.0,33.0,49.0,232.0,0.0,75.0,359.0,1.0,232.0
+"Medicinski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Organizator zdravstvene nege,4,MD,Državni fakultet,30.0,193.0,19.0,14.0,37.0,53.0,18.0,85.0,0.0,0.0,0.0,193.0,0.0,85.0
+Muzički i primenjene umetnosti,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani dizajner,4,UM,Državni fakultet,14.0,66.0,21.0,13.0,15.0,13.0,14.0,24.0,0.0,0.0,55.0,11.0,0.0,24.0
+Muzički i primenjene umetnosti,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,14.0,0.0,22.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Muzički i primenjene umetnosti,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani muzički umetnik,4,UM,Državni fakultet,28.0,43.0,33.0,3.0,9.0,9.0,7.0,18.0,0.0,0.0,29.0,14.0,0.0,18.0
+Muzički i primenjene umetnosti,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani primenjeni umetnik,4,UM,Državni fakultet,13.0,98.0,14.0,16.0,25.0,19.0,32.0,22.0,0.0,0.0,74.0,24.0,0.0,22.0
+"Pedagoški fakultet, Sombor",Univerzitet u Novom Sadu,Osnovne akademske,Bibliotekar,3,DH,Državni fakultet,0.0,16.0,0.0,5.0,0.0,8.0,8.0,0.0,0.0,0.0,15.0,1.0,0.0,8.0
+"Pedagoški fakultet, Sombor",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani bibliotekar - informatičar,4,DH,Državni fakultet,20.0,39.0,15.0,14.0,15.0,3.0,4.0,17.0,0.0,0.0,20.0,19.0,0.0,17.0
+"Pedagoški fakultet, Sombor",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,50.0,155.0,14.0,32.0,17.0,22.0,12.0,104.0,0.0,0.0,66.0,89.0,0.0,104.0
+"Pedagoški fakultet, Sombor",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani dizajner medija u obrazovanju,4,DH,Državni fakultet,45.0,51.0,8.0,13.0,8.0,13.0,13.0,17.0,0.0,0.0,39.0,12.0,0.0,17.0
+"Pedagoški fakultet, Sombor",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,89.0,258.0,42.0,61.0,45.0,32.0,30.0,151.0,0.0,0.0,147.0,111.0,0.0,151.0
+Poslovni fakultet u Valjevu (PFV),Univerzitet Singidunum,Osnovne akademske,Diplomirana medicinska sestra,4,MD,Privatni fakultet,40.0,117.0,42.0,17.0,35.0,38.0,20.0,24.0,0.0,0.0,0.0,117.0,0.0,24.0
+Poslovni fakultet u Valjevu (PFV),Univerzitet Singidunum,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,140.0,163.0,75.0,39.0,47.0,37.0,29.0,50.0,0.0,0.0,0.0,163.0,0.0,50.0
+Poslovni fakultet u Valjevu (PFV),Univerzitet Singidunum,Osnovne akademske,Diplomirani poslovni informatičar,4,DH,Privatni fakultet,30.0,19.0,10.0,3.0,8.0,5.0,3.0,3.0,0.0,0.0,0.0,19.0,0.0,3.0
+Poslovni fakultet u Valjevu (PFV),Univerzitet Singidunum,Osnovne akademske,Diplomirani pravnik,4,DH,Privatni fakultet,30.0,51.0,20.0,8.0,15.0,14.0,10.0,12.0,0.0,0.0,0.0,51.0,0.0,12.0
+Poljoprivredni fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,550.0,2150.0,241.0,112.0,402.0,294.0,297.0,1157.0,0.0,0.0,1135.0,1014.0,1.0,1157.0
+Poljoprivredni fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,300.0,1070.0,208.0,122.0,255.0,168.0,182.0,465.0,0.0,0.0,611.0,459.0,0.0,465.0
+Poljoprivredni fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani menadžer,4,DH,Državni fakultet,120.0,691.0,86.0,50.0,105.0,92.0,99.0,395.0,0.0,0.0,363.0,328.0,0.0,395.0
+Poljoprivredni fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer pejzažne arhitekture,4,IMT,Državni fakultet,50.0,182.0,32.0,42.0,30.0,28.0,22.0,102.0,0.0,0.0,121.0,61.0,0.0,102.0
+Poljoprivredni fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,490.0,1745.0,313.0,138.0,396.0,219.0,261.0,869.0,0.0,0.0,1026.0,718.0,1.0,869.0
+Poljoprivredni fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani menadžer,4,DH,Državni fakultet,140.0,619.0,101.0,34.0,105.0,65.0,86.0,363.0,0.0,0.0,350.0,268.0,1.0,363.0
+Poljoprivredni fakultet u Kruševcu,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,75.0,53.0,56.0,0.0,53.0,0.0,0.0,0.0,0.0,0.0,52.0,1.0,0.0,0.0
+"Poljoprivredni fakultet, Lešak",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,IMT,Državni fakultet,75.0,197.0,20.0,5.0,93.0,48.0,38.0,18.0,0.0,0.0,197.0,0.0,0.0,18.0
+"Poljoprivredni fakultet, Lešak",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Državni fakultet,25.0,81.0,25.0,5.0,25.0,14.0,24.0,18.0,0.0,0.0,81.0,0.0,0.0,18.0
+Pravni fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,1500.0,7051.0,1272.0,736.0,1268.0,1542.0,1664.0,2577.0,0.0,0.0,2462.0,4567.0,22.0,2577.0
+Pravni fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,605.0,1043.0,311.0,68.0,301.0,298.0,283.0,161.0,0.0,0.0,524.0,519.0,0.0,161.0
+Pravni fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,600.0,2391.0,325.0,148.0,366.0,365.0,504.0,1156.0,0.0,0.0,924.0,1466.0,1.0,1156.0
+Pravni fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,880.0,3346.0,415.0,256.0,646.0,431.0,585.0,1684.0,0.0,0.0,681.0,2662.0,3.0,1684.0
+"Pravni fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani pravnik,4,DH,Državni fakultet,200.0,954.0,104.0,42.0,129.0,182.0,211.0,432.0,0.0,0.0,382.0,572.0,0.0,432.0
+Pravoslavni bogoslovski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani teolog,4,DH,Državni fakultet,95.0,601.0,69.0,26.0,73.0,105.0,136.0,246.0,41.0,0.0,209.0,392.0,0.0,246.0
+Pravoslavni bogoslovski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani teolog - katiheta,4,DH,Državni fakultet,135.0,683.0,96.0,68.0,105.0,115.0,129.0,265.0,69.0,0.0,365.0,318.0,0.0,265.0
+Pravoslavni bogoslovski fakultet,Univerzitet u Beogradu,Osnovne akademske,Teolog,3,DH,Državni fakultet,0.0,56.0,0.0,229.0,0.0,0.0,56.0,0.0,0.0,0.0,0.0,56.0,0.0,56.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani biolog,4,PM,Državni fakultet,35.0,198.0,38.0,20.0,39.0,36.0,31.0,92.0,0.0,0.0,106.0,92.0,0.0,92.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani ekolog,4,PM,Državni fakultet,40.0,207.0,38.0,24.0,45.0,32.0,28.0,102.0,0.0,0.0,113.0,94.0,0.0,102.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani informatičar,4,PM,Državni fakultet,100.0,353.0,147.0,17.0,149.0,64.0,65.0,75.0,0.0,0.0,221.0,132.0,0.0,75.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani matematičar,4,PM,Državni fakultet,50.0,197.0,30.0,34.0,44.0,29.0,27.0,97.0,0.0,0.0,123.0,74.0,0.0,97.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani fizičar,4,PM,Državni fakultet,25.0,86.0,26.0,9.0,28.0,5.0,10.0,43.0,0.0,0.0,50.0,36.0,0.0,43.0
+Prirodno-matematički fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani hemičar,4,PM,Državni fakultet,65.0,256.0,44.0,26.0,58.0,32.0,52.0,114.0,0.0,0.0,178.0,78.0,0.0,114.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Biolog,3,PM,Državni fakultet,60.0,233.0,42.0,49.0,59.0,53.0,121.0,0.0,0.0,0.0,134.0,99.0,0.0,121.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Geograf,3,PM,Državni fakultet,54.0,220.0,34.0,52.0,54.0,43.0,123.0,0.0,0.0,0.0,135.0,85.0,0.0,123.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Informatičar,3,PM,Državni fakultet,54.0,132.0,104.0,0.0,54.0,22.0,56.0,0.0,0.0,0.0,82.0,50.0,0.0,56.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Matematičar,3,PM,Državni fakultet,81.0,252.0,32.0,33.0,69.0,46.0,137.0,0.0,0.0,0.0,110.0,142.0,0.0,137.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Fizičar,3,PM,Državni fakultet,45.0,101.0,13.0,5.0,37.0,14.0,50.0,0.0,0.0,0.0,59.0,42.0,0.0,50.0
+Prirodno-matematički fakultet,Univerzitet u Nišu,Osnovne akademske,Hemičar,3,PM,Državni fakultet,45.0,161.0,42.0,16.0,45.0,36.0,80.0,0.0,0.0,0.0,109.0,52.0,0.0,80.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Integr. akademske,Diplomirani profesor informatike i matematike,5,PM,Državni fakultet,60.0,57.0,0.0,1.0,0.0,0.0,5.0,8.0,44.0,0.0,4.0,53.0,0.0,44.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Integr. akademske,Master profesor biologije,5,PM,Državni fakultet,40.0,67.0,8.0,0.0,32.0,4.0,1.0,2.0,28.0,0.0,47.0,20.0,0.0,28.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Integr. akademske,Master profesor matematike,5,PM,Državni fakultet,55.0,89.0,30.0,0.0,30.0,3.0,7.0,10.0,39.0,0.0,36.0,53.0,0.0,39.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Integr. akademske,Master profesor fizike,5,PM,Državni fakultet,25.0,19.0,4.0,0.0,5.0,1.0,2.0,2.0,9.0,0.0,4.0,15.0,0.0,9.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Biolog,3,PM,Državni fakultet,80.0,533.0,131.0,0.0,82.0,89.0,92.0,270.0,0.0,0.0,258.0,269.0,6.0,92.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani analitičar zaštite životne sredine,4,PM,Državni fakultet,40.0,98.0,8.0,16.0,11.0,7.0,28.0,52.0,0.0,0.0,63.0,35.0,0.0,52.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani biolog,4,PM,Državni fakultet,80.0,622.0,124.0,37.0,80.0,79.0,108.0,355.0,0.0,0.0,294.0,326.0,2.0,355.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani biohemičar,4,PM,Državni fakultet,35.0,147.0,45.0,23.0,36.0,27.0,34.0,50.0,0.0,0.0,98.0,49.0,0.0,50.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani geograf,4,PM,Državni fakultet,20.0,186.0,20.0,1.0,42.0,35.0,28.0,81.0,0.0,0.0,75.0,111.0,0.0,81.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani ekolog,4,PM,Državni fakultet,60.0,268.0,17.0,22.0,36.0,43.0,41.0,148.0,0.0,0.0,130.0,138.0,0.0,148.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani informatičar,4,PM,Državni fakultet,80.0,674.0,109.0,22.0,155.0,119.0,132.0,268.0,0.0,0.0,390.0,284.0,0.0,268.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani menadžer,4,PM,Državni fakultet,160.0,640.0,221.0,0.0,160.0,146.0,130.0,204.0,0.0,0.0,410.0,230.0,0.0,204.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani profesor geografije,4,PM,Državni fakultet,80.0,236.0,34.0,26.0,21.0,27.0,31.0,157.0,0.0,0.0,53.0,183.0,0.0,157.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani profesor matematike,4,PM,Državni fakultet,55.0,259.0,30.0,19.0,10.0,33.0,36.0,180.0,0.0,0.0,59.0,200.0,0.0,180.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani profesor fizike,4,PM,Državni fakultet,30.0,75.0,7.0,0.0,10.0,8.0,20.0,37.0,0.0,0.0,23.0,52.0,0.0,37.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani turizmolog,4,IMT,Državni fakultet,160.0,274.0,223.0,79.0,1.0,14.0,8.0,251.0,0.0,0.0,58.0,216.0,0.0,251.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani fizičar,4,PM,Državni fakultet,55.0,258.0,28.0,36.0,36.0,51.0,38.0,133.0,0.0,0.0,88.0,170.0,0.0,133.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani hemičar,4,PM,Državni fakultet,105.0,439.0,69.0,72.0,83.0,69.0,80.0,207.0,0.0,0.0,266.0,172.0,1.0,207.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Ekolog,3,PM,Državni fakultet,60.0,288.0,21.0,0.0,55.0,47.0,49.0,137.0,0.0,0.0,151.0,137.0,0.0,49.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Informatičar,3,PM,Državni fakultet,45.0,290.0,31.0,6.0,95.0,51.0,128.0,16.0,0.0,0.0,114.0,176.0,0.0,128.0
+Prirodno-matematički fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Matematičar,3,PM,Državni fakultet,80.0,243.0,35.0,44.0,41.0,41.0,161.0,0.0,0.0,0.0,70.0,172.0,1.0,161.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani biolog,4,PM,Državni fakultet,45.0,139.0,24.0,11.0,27.0,18.0,23.0,71.0,0.0,0.0,75.0,64.0,0.0,71.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani geograf,4,PM,Državni fakultet,75.0,159.0,43.0,23.0,38.0,18.0,41.0,62.0,0.0,0.0,122.0,37.0,0.0,62.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani informatičar,4,PM,Državni fakultet,35.0,101.0,38.0,10.0,33.0,24.0,17.0,27.0,0.0,0.0,81.0,20.0,0.0,27.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani matematičar,4,PM,Državni fakultet,25.0,109.0,12.0,10.0,14.0,24.0,32.0,39.0,0.0,0.0,46.0,63.0,0.0,39.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani fizičar,4,PM,Državni fakultet,15.0,40.0,13.0,8.0,10.0,12.0,6.0,12.0,0.0,0.0,23.0,17.0,0.0,12.0
+"Prirodno-matematički fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani hemičar,4,PM,Državni fakultet,25.0,50.0,16.0,11.0,12.0,10.0,15.0,13.0,0.0,0.0,45.0,5.0,0.0,13.0
+Rektorat,Univerzitet Alfa BK,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,300.0,360.0,102.0,122.0,81.0,58.0,116.0,105.0,0.0,0.0,0.0,360.0,0.0,105.0
+Rektorat,Univerzitet Alfa BK,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Privatni fakultet,25.0,96.0,25.0,25.0,18.0,18.0,34.0,26.0,0.0,0.0,0.0,96.0,0.0,26.0
+Rektorat,Univerzitet Alfa BK,Osnovne akademske,Diplomirani informatičar,4,PM,Privatni fakultet,25.0,33.0,20.0,10.0,2.0,6.0,9.0,16.0,0.0,0.0,0.0,33.0,0.0,16.0
+Rektorat,Univerzitet Alfa BK,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,90.0,124.0,50.0,52.0,27.0,27.0,25.0,45.0,0.0,0.0,0.0,124.0,0.0,45.0
+Rektorat,Univerzitet Alfa BK,Osnovne akademske,Diplomirani filolog,4,DH,Privatni fakultet,50.0,113.0,36.0,21.0,17.0,23.0,23.0,50.0,0.0,0.0,0.0,110.0,3.0,50.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,1120.0,1454.0,647.0,334.0,399.0,331.0,379.0,345.0,0.0,0.0,0.0,1436.0,18.0,345.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Privatni fakultet,40.0,108.0,0.0,14.0,60.0,24.0,24.0,0.0,0.0,0.0,0.0,107.0,1.0,0.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani inženjer informacionih tehnologija,4,IMT,Privatni fakultet,240.0,92.0,293.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,92.0,0.0,0.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Privatni fakultet,180.0,64.0,0.0,18.0,0.0,13.0,15.0,36.0,0.0,0.0,0.0,63.0,1.0,36.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani inženjer softvera,4,DH,Privatni fakultet,90.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani inženjer softvera,4,TT,Privatni fakultet,100.0,0.0,171.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani informatičar,4,PM,Privatni fakultet,80.0,306.0,119.0,81.0,80.0,80.0,80.0,66.0,0.0,0.0,0.0,295.0,11.0,66.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,40.0,0.0,40.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rektorat univerzitet Singidunum,Univerzitet Singidunum,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (biomedicinske nauke),4,DH,Privatni fakultet,50.0,0.0,50.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rudarsko-geološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Geolog,3,PM,Državni fakultet,90.0,255.0,57.0,41.0,53.0,38.0,45.0,44.0,30.0,45.0,102.0,153.0,0.0,45.0
+Rudarsko-geološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer geologije,4,TT,Državni fakultet,76.0,302.0,43.0,51.0,43.0,46.0,55.0,63.0,28.0,67.0,149.0,151.0,2.0,63.0
+Rudarsko-geološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,40.0,152.0,73.0,26.0,30.0,28.0,32.0,31.0,18.0,13.0,78.0,74.0,0.0,31.0
+Rudarsko-geološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer rudarstva,4,TT,Državni fakultet,110.0,550.0,112.0,72.0,94.0,100.0,102.0,104.0,78.0,72.0,276.0,267.0,7.0,104.0
+Saobraćajni fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer saobraćaja,4,TT,Državni fakultet,350.0,1811.0,641.0,247.0,715.0,378.0,252.0,466.0,0.0,0.0,948.0,862.0,1.0,466.0
+Stomatološki fakultet,Univerzitet u Beogradu,Integr. akademske,Doktor stomatologije,6,MD,Državni fakultet,240.0,1445.0,764.0,157.0,262.0,295.0,246.0,197.0,169.0,276.0,955.0,466.0,24.0,276.0
+Tehnički fakultet (Bor),Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Državni fakultet,120.0,282.0,27.0,35.0,110.0,57.0,61.0,54.0,0.0,0.0,218.0,64.0,0.0,54.0
+Tehnički fakultet (Bor),Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer metalurgije,4,TT,Državni fakultet,20.0,43.0,8.0,8.0,22.0,9.0,5.0,7.0,0.0,0.0,32.0,11.0,0.0,7.0
+Tehnički fakultet (Bor),Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer rudarstva,4,TT,Državni fakultet,40.0,141.0,13.0,16.0,42.0,42.0,21.0,36.0,0.0,0.0,103.0,38.0,0.0,36.0
+Tehnički fakultet (Bor),Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,60.0,193.0,13.0,19.0,59.0,54.0,47.0,33.0,0.0,0.0,123.0,70.0,0.0,33.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,50.0,62.0,13.0,12.0,14.0,16.0,16.0,16.0,0.0,0.0,55.0,7.0,0.0,16.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer industrijskog inženjerstva u eksploataciji nafte i gasa,4,IMT,Državni fakultet,50.0,149.0,40.0,14.0,35.0,30.0,43.0,41.0,0.0,0.0,99.0,50.0,0.0,41.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer informacionih tehnologija,4,IMT,Državni fakultet,80.0,273.0,84.0,55.0,86.0,65.0,54.0,68.0,0.0,0.0,220.0,53.0,0.0,68.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer mašinstva,4,TT,Državni fakultet,60.0,72.0,21.0,10.0,22.0,10.0,18.0,22.0,0.0,0.0,53.0,19.0,0.0,22.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Državni fakultet,107.0,161.0,35.0,40.0,36.0,46.0,32.0,47.0,0.0,0.0,142.0,19.0,0.0,47.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer menadžmenta informacionih tehnologija,4,IMT,Državni fakultet,60.0,37.0,13.0,3.0,16.0,10.0,11.0,0.0,0.0,0.0,30.0,7.0,0.0,0.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,50.0,93.0,23.0,14.0,23.0,18.0,19.0,33.0,0.0,0.0,88.0,5.0,0.0,33.0
+"Tehnički fakultet Mihajlo Pupin, Zrenjanin",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani profesor informatike i tehnike,4,IMT,Državni fakultet,20.0,35.0,3.0,4.0,3.0,10.0,12.0,10.0,0.0,0.0,31.0,4.0,0.0,10.0
+Tehnološki fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,120.0,367.0,70.0,65.0,74.0,86.0,76.0,131.0,0.0,0.0,257.0,110.0,0.0,131.0
+Tehnološki fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,285.0,1016.0,221.0,97.0,271.0,180.0,172.0,393.0,0.0,0.0,487.0,529.0,0.0,393.0
+Tehnološko-metalurški fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,60.0,182.0,63.0,10.0,73.0,40.0,25.0,44.0,0.0,0.0,58.0,124.0,0.0,44.0
+Tehnološko-metalurški fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer metalurgije,4,TT,Državni fakultet,20.0,46.0,7.0,6.0,15.0,11.0,10.0,10.0,0.0,0.0,18.0,28.0,0.0,10.0
+Tehnološko-metalurški fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,280.0,1457.0,346.0,125.0,378.0,339.0,300.0,440.0,0.0,0.0,620.0,836.0,1.0,440.0
+Tehnološko-metalurški fakultet,Univerzitet u Beogradu,Osnovne akademske,Inženjer tehnologije,3,TT,Državni fakultet,20.0,9.0,3.0,0.0,0.0,2.0,7.0,0.0,0.0,0.0,2.0,7.0,0.0,7.0
+Učiteljski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,140.0,140.0,202.0,0.0,140.0,0.0,0.0,0.0,0.0,0.0,95.0,45.0,0.0,0.0
+Učiteljski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,300.0,230.0,219.0,0.0,230.0,0.0,0.0,0.0,0.0,0.0,152.0,78.0,0.0,0.0
+"Učiteljski fakultet na mađarskom nastavnom jeziku, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,20.0,52.0,15.0,10.0,16.0,10.0,13.0,13.0,0.0,0.0,46.0,6.0,0.0,13.0
+"Učiteljski fakultet na mađarskom nastavnom jeziku, Subotica",Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,35.0,95.0,34.0,22.0,27.0,13.0,20.0,35.0,0.0,0.0,82.0,13.0,0.0,35.0
+"Učiteljski fakultet, Vranje",Univerzitet u Nišu,Integr. akademske,Master profesor tehnike i informatike,5,IMT,Državni fakultet,50.0,24.0,22.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,21.0,3.0,0.0,0.0
+"Učiteljski fakultet, Vranje",Univerzitet u Nišu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,50.0,137.0,14.0,29.0,16.0,22.0,35.0,64.0,0.0,0.0,97.0,40.0,0.0,64.0
+"Učiteljski fakultet, Vranje",Univerzitet u Nišu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,160.0,583.0,38.0,66.0,76.0,75.0,101.0,331.0,0.0,0.0,364.0,219.0,0.0,331.0
+"Učiteljski fakultet, Leposavić",Univerzitet u Prištini,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,50.0,137.0,36.0,28.0,34.0,45.0,20.0,38.0,0.0,0.0,94.0,43.0,0.0,38.0
+"Učiteljski fakultet, Leposavić",Univerzitet u Prištini,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,80.0,186.0,54.0,53.0,52.0,42.0,40.0,52.0,0.0,0.0,164.0,22.0,0.0,52.0
+"Učiteljski fakultet, Užice",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,15.0,137.0,33.0,36.0,24.0,45.0,26.0,30.0,12.0,0.0,89.0,48.0,0.0,30.0
+"Učiteljski fakultet, Užice",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,105.0,460.0,39.0,84.0,54.0,69.0,117.0,125.0,95.0,0.0,382.0,78.0,0.0,125.0
+Fakultet bezbednosti,Univerzitet u Beogradu,Osnovne akademske,Diplomirani menadžer bezbednosti,4,IMT,Državni fakultet,390.0,2139.0,631.0,252.0,509.0,360.0,421.0,849.0,0.0,0.0,661.0,1478.0,0.0,849.0
+Fakultet veterinarske medicine,Univerzitet u Beogradu,Integr. akademske,Doktor veterinarske medicine,6,MD,Državni fakultet,156.0,1194.0,212.0,66.0,169.0,218.0,230.0,236.0,145.0,196.0,589.0,605.0,0.0,196.0
+Fakultet dramskih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani dramski i audiovizuelni umetnik,4,UM,Državni fakultet,71.0,244.0,592.0,50.0,64.0,55.0,58.0,67.0,0.0,0.0,215.0,29.0,0.0,67.0
+Fakultet dramskih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani menadžer,4,DH,Državni fakultet,15.0,56.0,18.0,16.0,13.0,14.0,14.0,15.0,0.0,0.0,53.0,3.0,0.0,15.0
+Fakultet za biofarming - Bačka Topola,Univerzitet Megatrend,Osnovne akademske,Diplomirani inženjer poljoprivrede,4,TT,Privatni fakultet,0.0,77.0,0.0,53.0,25.0,12.0,14.0,26.0,0.0,0.0,0.0,77.0,0.0,26.0
+Fakultet za graditeljski menadžment bez svojstva pravnog lica - Beograd,Univerzitet Union - Nikola Tesla,Osnovne akademske,Diplomirani inženjer arhitekture (tehničke nauke),4,TT,Privatni fakultet,0.0,93.0,0.0,50.0,10.0,27.0,34.0,22.0,0.0,0.0,0.0,93.0,0.0,22.0
+Fakultet za graditeljski menadžment bez svojstva pravnog lica - Beograd,Univerzitet Union - Nikola Tesla,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Privatni fakultet,0.0,60.0,0.0,60.0,6.0,11.0,22.0,21.0,0.0,0.0,0.0,60.0,0.0,21.0
+Fakultet za evropske pravno-političke studije (FEPPS),Univerzitet Edukons,Osnovne akademske,Diplomirani politikolog,3,DH,Privatni fakultet,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet za evropske pravno-političke studije (FEPPS),Univerzitet Edukons,Osnovne akademske,Diplomirani pravnik,4,DH,Privatni fakultet,0.0,115.0,0.0,0.0,18.0,14.0,36.0,47.0,0.0,0.0,0.0,115.0,0.0,47.0
+"Fakultet za ekonomiju, finansije i administraciju (FEFA)",Univerzitet Singidunum,Osnovne akademske,Ekonomista,3,DH,Privatni fakultet,0.0,0.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fakultet za ekonomiju, finansije i administraciju (FEFA)",Univerzitet Singidunum,Osnovne akademske,Menadžer,3,DH,Privatni fakultet,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet za kulturu i medije - Beograd,Univerzitet Megatrend,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,0.0,446.0,0.0,225.0,162.0,67.0,65.0,152.0,0.0,0.0,0.0,446.0,0.0,152.0
+Fakultet za kulturu i medije - Beograd,Univerzitet Megatrend,Osnovne akademske,Diplomirani novinar/žurnalista,4,DH,Privatni fakultet,0.0,191.0,0.0,53.0,59.0,25.0,14.0,93.0,0.0,0.0,0.0,191.0,0.0,93.0
+"Fakultet za mašinstvo i građevinarstvo, Kraljevo",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer mašinstva,4,TT,Državni fakultet,120.0,301.0,71.0,45.0,88.0,67.0,81.0,65.0,0.0,0.0,173.0,128.0,0.0,65.0
+"Fakultet za mašinstvo i građevinarstvo, Kraljevo",Univerzitet u Kragujevcu,Osnovne akademske,Inženjer građevinarstva,3,TT,Državni fakultet,60.0,195.0,50.0,10.0,52.0,47.0,96.0,0.0,0.0,0.0,110.0,85.0,0.0,96.0
+Fakultet za menadžment u sportu - Beograd,Univerzitet Alfa BK,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,90.0,139.0,17.0,28.0,34.0,24.0,57.0,24.0,0.0,0.0,0.0,139.0,0.0,24.0
+Fakultet za menadžment- Zaječar,Univerzitet Megatrend,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,0.0,125.0,0.0,0.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,125.0,0.0,0.0
+Fakultet za menadžment- Zaječar,Univerzitet Megatrend,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,0.0,65.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.0
+Fakultet za međunarodnu ekonomiju - Beograd,Univerzitet Megatrend,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,0.0,284.0,0.0,52.0,114.0,61.0,39.0,70.0,0.0,0.0,0.0,284.0,0.0,70.0
+Fakultet za međunarodnu politiku i bezbednost - Beograd,Univerzitet Union - Nikola Tesla,Osnovne akademske,Diplomirani politikolog za međunarodne poslove,4,DH,Privatni fakultet,0.0,43.0,0.0,0.0,12.0,5.0,7.0,19.0,0.0,0.0,0.0,43.0,0.0,19.0
+Fakultet za poslovne studije - Beograd,Univerzitet Megatrend,Osnovne akademske,Diplomirani ekonomista,4,DH,Privatni fakultet,0.0,878.0,0.0,297.0,153.0,180.0,150.0,395.0,0.0,0.0,0.0,878.0,0.0,395.0
+"Fakultet za pravo, javnu upravu i bezbednost- Beograd",Univerzitet Megatrend,Osnovne akademske,Diplomirani pravnik unutrašnjih poslova,4,DH,Privatni fakultet,0.0,0.0,0.0,230.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet za primenjenu ekologiju (FUTURA),Univerzitet Singidunum,Osnovne akademske,Diplomirani analitičar zaštite životne sredine,4,IMT,Privatni fakultet,40.0,14.0,7.0,0.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0
+Fakultet za primenjenu ekologiju (FUTURA),Univerzitet Singidunum,Osnovne akademske,Diplomirani analitičar zaštite životne sredine,4,PM,Privatni fakultet,40.0,152.0,37.0,67.0,35.0,37.0,40.0,40.0,0.0,0.0,0.0,151.0,1.0,40.0
+Fakultet za projektni i inovacioni menadžment - Beograd,Univerzitet Edukons,Osnovne akademske,Menadžer,3,DH,Privatni fakultet,0.0,10.0,0.0,43.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+Fakultet za specijalnu edukaciju i rehabilitaciju,Univerzitet u Beogradu,Osnovne akademske,Diplomirani defektolog,4,DH,Državni fakultet,280.0,1240.0,397.0,233.0,292.0,305.0,295.0,348.0,0.0,0.0,844.0,396.0,0.0,348.0
+Fakultet za sport i turizam (TIMS) - Novi Sad,Univerzitet Edukons,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet za sport i turizam (TIMS) - Novi Sad,Univerzitet Edukons,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (društveno-humanističke nauke),4,DH,Privatni fakultet,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet za sport i turizam (TIMS) - Novi Sad,Univerzitet Edukons,Osnovne akademske,Diplomirani psiholog,4,DH,Privatni fakultet,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fakultet za sport i fizičko vaspitanje, Leposavić",Univerzitet u Prištini,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (biomedicinske nauke),4,DH,Državni fakultet,120.0,462.0,121.0,140.0,120.0,116.0,114.0,112.0,0.0,0.0,423.0,39.0,0.0,112.0
+Fakultet za umetnost i dizajn - Beograd,Univerzitet Megatrend,Osnovne akademske,Diplomirani dizajner,4,UM,Privatni fakultet,0.0,81.0,0.0,30.0,21.0,20.0,20.0,20.0,0.0,0.0,0.0,81.0,0.0,20.0
+Fakultet za fizičku kulturu i menadžment u sportu,Univerzitet Singidunum,Osnovne akademske,Diplomirani menadžer,4,DH,Privatni fakultet,0.0,25.0,0.0,0.0,17.0,6.0,0.0,2.0,0.0,0.0,0.0,25.0,0.0,2.0
+Fakultet za fizičku kulturu i menadžment u sportu,Univerzitet Singidunum,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (društveno-humanističke nauke),4,DH,Privatni fakultet,0.0,83.0,0.0,0.0,32.0,14.0,9.0,28.0,0.0,0.0,0.0,83.0,0.0,28.0
+Fakultet za fizičku hemiju,Univerzitet u Beogradu,Osnovne akademske,Diplomirani fizikohemičar,4,PM,Državni fakultet,100.0,418.0,96.0,34.0,121.0,100.0,87.0,110.0,0.0,0.0,176.0,242.0,0.0,110.0
+"Fakultet za hotelijerstvo i turizam, Vrnjačka Banja",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani menadžer,4,DH,Državni fakultet,200.0,436.0,215.0,77.0,154.0,106.0,97.0,79.0,0.0,0.0,306.0,127.0,3.0,79.0
+Fakultet zaštite na radu,Univerzitet u Nišu,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,360.0,929.0,170.0,106.0,172.0,106.0,133.0,518.0,0.0,0.0,495.0,434.0,0.0,518.0
+Fakultet inženjerskih nauka,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,60.0,172.0,135.0,0.0,64.0,54.0,26.0,28.0,0.0,0.0,144.0,28.0,0.0,28.0
+Fakultet inženjerskih nauka,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer industrijskog inženjerstva,4,TT,Državni fakultet,40.0,164.0,40.0,18.0,39.0,34.0,21.0,70.0,0.0,0.0,113.0,51.0,0.0,70.0
+Fakultet inženjerskih nauka,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer urbanizma,4,IMT,Državni fakultet,40.0,100.0,19.0,6.0,18.0,19.0,17.0,46.0,0.0,0.0,68.0,32.0,0.0,46.0
+Fakultet inženjerskih nauka,Univerzitet u Kragujevcu,Osnovne akademske,Inženjer mašinstva,3,TT,Državni fakultet,280.0,740.0,213.0,106.0,251.0,142.0,347.0,0.0,0.0,0.0,407.0,333.0,0.0,347.0
+Fakultet likovnih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,55.0,222.0,88.0,46.0,55.0,58.0,53.0,56.0,0.0,0.0,178.0,43.0,1.0,56.0
+Fakultet medicinskih nauka,Univerzitet u Kragujevcu,Integr. akademske,Doktor medicine,6,MD,Državni fakultet,88.0,789.0,536.0,126.0,91.0,88.0,94.0,115.0,96.0,305.0,591.0,193.0,5.0,305.0
+Fakultet medicinskih nauka,Univerzitet u Kragujevcu,Integr. akademske,Doktor stomatologije,5,MD,Državni fakultet,24.0,127.0,84.0,24.0,25.0,26.0,26.0,24.0,26.0,0.0,124.0,3.0,0.0,26.0
+Fakultet medicinskih nauka,Univerzitet u Kragujevcu,Integr. akademske,Magistar farmacije,5,MD,Državni fakultet,84.0,423.0,158.0,87.0,85.0,82.0,84.0,81.0,91.0,0.0,410.0,13.0,0.0,91.0
+Fakultet muzičke umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani kompozitor,4,UM,Državni fakultet,4.0,17.0,6.0,3.0,3.0,5.0,2.0,7.0,0.0,0.0,11.0,6.0,0.0,7.0
+Fakultet muzičke umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani muzički umetnik,4,UM,Državni fakultet,84.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet muzičke umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani teoretičar umetnosti,4,DH,Državni fakultet,52.0,0.0,61.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fakultet organizacionih nauka,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer organizacionih nauka,4,TT,Državni fakultet,1560.0,4351.0,4963.0,705.0,1100.0,878.0,783.0,1590.0,0.0,0.0,1910.0,2428.0,13.0,1590.0
+"Fakultet pedagoških nauka, Jagodina",Univerzitet u Kragujevcu,Osnovne akademske,Vaspitač,3,DH,Državni fakultet,30.0,76.0,17.0,14.0,22.0,25.0,29.0,0.0,0.0,0.0,54.0,22.0,0.0,29.0
+"Fakultet pedagoških nauka, Jagodina",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani vaspitač,4,DH,Državni fakultet,90.0,317.0,83.0,40.0,77.0,78.0,89.0,73.0,0.0,0.0,222.0,95.0,0.0,73.0
+"Fakultet pedagoških nauka, Jagodina",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani učitelj,4,DH,Državni fakultet,90.0,334.0,70.0,61.0,74.0,84.0,90.0,86.0,0.0,0.0,294.0,40.0,0.0,86.0
+Fakultet političkih nauka,Univerzitet u Beogradu,Osnovne akademske,Diplomirani novinar/žurnalista,4,DH,Državni fakultet,160.0,705.0,188.0,106.0,161.0,152.0,143.0,139.0,110.0,0.0,289.0,415.0,1.0,139.0
+Fakultet političkih nauka,Univerzitet u Beogradu,Osnovne akademske,Diplomirani politikolog,4,DH,Državni fakultet,100.0,412.0,193.0,77.0,100.0,93.0,81.0,85.0,53.0,0.0,174.0,238.0,0.0,85.0
+Fakultet političkih nauka,Univerzitet u Beogradu,Osnovne akademske,Diplomirani politikolog za međunarodne poslove,4,DH,Državni fakultet,140.0,627.0,243.0,116.0,144.0,140.0,134.0,129.0,80.0,0.0,207.0,410.0,10.0,129.0
+Fakultet političkih nauka,Univerzitet u Beogradu,Osnovne akademske,Diplomirani socijalni radnik,4,DH,Državni fakultet,100.0,454.0,111.0,103.0,100.0,98.0,91.0,95.0,70.0,0.0,182.0,271.0,1.0,95.0
+Fakultet primenjenih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani dizajner,4,UM,Državni fakultet,49.0,188.0,109.0,37.0,48.0,51.0,45.0,44.0,0.0,0.0,132.0,55.0,1.0,44.0
+Fakultet primenjenih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani konzervator i restaurator,4,UM,Državni fakultet,14.0,53.0,10.0,12.0,14.0,14.0,12.0,13.0,0.0,0.0,44.0,9.0,0.0,13.0
+Fakultet primenjenih umetnosti,Univerzitet umetnosti u Beogradu,Osnovne akademske,Diplomirani primenjeni umetnik,4,UM,Državni fakultet,82.0,322.0,126.0,58.0,83.0,88.0,73.0,78.0,0.0,0.0,235.0,87.0,0.0,78.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Beogradu,Osnovne akademske,Diplomirani profesor sporta,4,DH,Državni fakultet,0.0,17.0,0.0,20.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,17.0,0.0,17.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Beogradu,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja,4,DH,Državni fakultet,0.0,27.0,0.0,29.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,27.0,0.0,27.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Beogradu,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (biomedicinske nauke),4,DH,Državni fakultet,160.0,896.0,275.0,68.0,173.0,168.0,145.0,410.0,0.0,0.0,491.0,402.0,3.0,410.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Nišu,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i sporta (biomedicinske nauke),4,DH,Državni fakultet,195.0,911.0,169.0,121.0,201.0,192.0,186.0,332.0,0.0,0.0,694.0,217.0,0.0,332.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani profesor fizičkog vaspitanja i kineziterapije,4,DH,Državni fakultet,250.0,829.0,266.0,127.0,206.0,210.0,173.0,240.0,0.0,0.0,513.0,311.0,5.0,240.0
+Fakultet sporta i fizičkog vaspitanja,Univerzitet u Novom Sadu,Osnovne akademske,Profesor fizičkog vaspitanja i kineziterapije,3,DH,Državni fakultet,100.0,135.0,31.0,0.0,52.0,38.0,45.0,0.0,0.0,0.0,88.0,47.0,0.0,45.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer arhitekture (tehničke nauke),4,TT,Državni fakultet,120.0,698.0,223.0,111.0,131.0,125.0,121.0,321.0,0.0,0.0,376.0,321.0,1.0,321.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer geodezije,4,TT,Državni fakultet,90.0,355.0,41.0,48.0,57.0,69.0,65.0,164.0,0.0,0.0,192.0,162.0,1.0,164.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer grafičkog inženjerstva i dizajna,4,IMT,Državni fakultet,90.0,561.0,211.0,65.0,93.0,92.0,95.0,281.0,0.0,0.0,317.0,244.0,0.0,281.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,180.0,770.0,105.0,86.0,162.0,80.0,104.0,424.0,0.0,0.0,265.0,503.0,2.0,424.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,880.0,3970.0,1197.0,303.0,1032.0,777.0,791.0,1370.0,0.0,0.0,2390.0,1580.0,0.0,1370.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer energetskih tehnologija,4,IMT,Državni fakultet,60.0,132.0,15.0,0.0,27.0,29.0,27.0,49.0,0.0,0.0,86.0,45.0,1.0,49.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,90.0,351.0,31.0,56.0,80.0,44.0,41.0,186.0,0.0,0.0,166.0,185.0,0.0,186.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer zaštite na radu,4,TT,Državni fakultet,40.0,170.0,21.0,16.0,39.0,25.0,22.0,84.0,0.0,0.0,98.0,72.0,0.0,84.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer zaštite od katastrofalnih događaja i požara,4,IMT,Državni fakultet,40.0,155.0,7.0,9.0,26.0,21.0,26.0,82.0,0.0,0.0,109.0,46.0,0.0,82.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer industrijskog inženjerstva,4,TT,Državni fakultet,80.0,326.0,61.0,20.0,98.0,68.0,53.0,107.0,0.0,0.0,177.0,149.0,0.0,107.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer informacionih tehnologija,4,IMT,Državni fakultet,140.0,422.0,162.0,0.0,144.0,128.0,76.0,74.0,0.0,0.0,337.0,85.0,0.0,74.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer mašinstva,4,TT,Državni fakultet,250.0,843.0,139.0,71.0,231.0,147.0,125.0,340.0,0.0,0.0,458.0,384.0,1.0,340.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Državni fakultet,180.0,882.0,194.0,108.0,221.0,152.0,147.0,362.0,0.0,0.0,470.0,410.0,2.0,362.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer mehatronike,4,IMT,Državni fakultet,90.0,438.0,122.0,36.0,126.0,91.0,67.0,154.0,0.0,0.0,234.0,203.0,1.0,154.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer računarske grafike,4,IMT,Državni fakultet,60.0,341.0,121.0,12.0,66.0,69.0,54.0,152.0,0.0,0.0,199.0,142.0,0.0,152.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani inženjer saobraćaja,4,TT,Državni fakultet,180.0,860.0,110.0,98.0,181.0,129.0,142.0,408.0,0.0,0.0,389.0,471.0,0.0,408.0
+Fakultet tehničkih nauka,Univerzitet u Novom Sadu,Osnovne akademske,"Diplomirani inženjer scenske arhitekture, tehnike i dizajna",4,IMT,Državni fakultet,24.0,93.0,21.0,7.0,24.0,24.0,17.0,28.0,0.0,0.0,72.0,20.0,1.0,28.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer arhitekture (tehničke nauke),4,TT,Državni fakultet,40.0,77.0,19.0,0.0,39.0,38.0,0.0,0.0,0.0,0.0,71.0,6.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer građevinarstva,4,TT,Državni fakultet,30.0,52.0,5.0,0.0,30.0,22.0,0.0,0.0,0.0,0.0,46.0,6.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,80.0,216.0,36.0,12.0,53.0,44.0,67.0,52.0,0.0,0.0,194.0,22.0,0.0,52.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer zaštite životne sredine,4,TT,Državni fakultet,24.0,115.0,6.0,0.0,37.0,31.0,47.0,0.0,0.0,0.0,98.0,17.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer zaštite na radu,4,TT,Državni fakultet,18.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer industrijskog inženjerstva,4,TT,Državni fakultet,30.0,49.0,26.0,0.0,30.0,19.0,0.0,0.0,0.0,0.0,44.0,5.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer mašinstva,4,TT,Državni fakultet,60.0,51.0,22.0,0.0,36.0,15.0,0.0,0.0,0.0,0.0,44.0,7.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer rudarstva,4,TT,Državni fakultet,16.0,27.0,7.0,0.0,10.0,15.0,2.0,0.0,0.0,0.0,21.0,6.0,0.0,0.0
+"Fakultet tehničkih nauka, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani inženjer tehnologije,4,TT,Državni fakultet,32.0,73.0,6.0,3.0,27.0,21.0,25.0,0.0,0.0,0.0,63.0,10.0,0.0,0.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Integr. akademske,Master profesor tehnike i informatike,5,IMT,Državni fakultet,30.0,84.0,13.0,28.0,15.0,11.0,10.0,10.0,38.0,0.0,43.0,41.0,0.0,38.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer elektrotehnike i računarstva,4,TT,Državni fakultet,80.0,298.0,60.0,38.0,59.0,37.0,50.0,152.0,0.0,0.0,161.0,136.0,1.0,152.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer informacionih tehnologija,4,IMT,Državni fakultet,130.0,472.0,191.0,34.0,140.0,112.0,86.0,134.0,0.0,0.0,354.0,118.0,0.0,134.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer menadžmenta,4,TT,Državni fakultet,30.0,131.0,26.0,13.0,25.0,21.0,30.0,55.0,0.0,0.0,110.0,21.0,0.0,55.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani inženjer mehatronike,4,IMT,Državni fakultet,30.0,73.0,31.0,11.0,28.0,12.0,11.0,22.0,0.0,0.0,42.0,31.0,0.0,22.0
+"Fakultet tehničkih nauka, Čačak",Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani menadžer,4,DH,Državni fakultet,45.0,104.0,23.0,23.0,21.0,12.0,18.0,53.0,0.0,0.0,71.0,33.0,0.0,53.0
+Fakultet umetnosti,Univerzitet u Nišu,Osnovne akademske,Diplomirani dizajner,4,UM,Državni fakultet,10.0,39.0,20.0,14.0,10.0,10.0,8.0,11.0,0.0,0.0,29.0,10.0,0.0,11.0
+Fakultet umetnosti,Univerzitet u Nišu,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,10.0,39.0,10.0,9.0,10.0,10.0,10.0,9.0,0.0,0.0,30.0,9.0,0.0,9.0
+Fakultet umetnosti,Univerzitet u Nišu,Osnovne akademske,Diplomirani muzički umetnik,4,UM,Državni fakultet,26.0,105.0,37.0,21.0,26.0,24.0,29.0,26.0,0.0,0.0,95.0,10.0,0.0,26.0
+Fakultet umetnosti,Univerzitet u Nišu,Osnovne akademske,Diplomirani teoretičar umetnosti,4,DH,Državni fakultet,20.0,64.0,12.0,1.0,11.0,19.0,11.0,23.0,0.0,0.0,56.0,8.0,0.0,23.0
+"Fakultet umetnosti, Zvečan",Univerzitet u Prištini,Osnovne akademske,Diplomirani dizajner,4,UM,Državni fakultet,6.0,21.0,9.0,4.0,6.0,8.0,3.0,4.0,0.0,0.0,15.0,6.0,0.0,4.0
+"Fakultet umetnosti, Zvečan",Univerzitet u Prištini,Osnovne akademske,Diplomirani dramski i audiovizuelni umetnik,4,UM,Državni fakultet,8.0,35.0,17.0,11.0,8.0,8.0,9.0,10.0,0.0,0.0,30.0,5.0,0.0,10.0
+"Fakultet umetnosti, Zvečan",Univerzitet u Prištini,Osnovne akademske,Diplomirani likovni umetnik,4,UM,Državni fakultet,14.0,38.0,8.0,13.0,7.0,9.0,6.0,16.0,0.0,0.0,31.0,7.0,0.0,16.0
+"Fakultet umetnosti, Zvečan",Univerzitet u Prištini,Osnovne akademske,Diplomirani muzički umetnik,4,UM,Državni fakultet,14.0,24.0,9.0,9.0,7.0,8.0,4.0,5.0,0.0,0.0,17.0,7.0,0.0,5.0
+"Fakultet umetnosti, Zvečan",Univerzitet u Prištini,Osnovne akademske,Diplomirani teoretičar umetnosti,4,DH,Državni fakultet,12.0,50.0,5.0,10.0,9.0,2.0,9.0,30.0,0.0,0.0,27.0,23.0,0.0,30.0
+Farmaceutski fakultet,Univerzitet u Beogradu,Integr. akademske,Magistar farmacije,5,MD,Državni fakultet,252.0,1658.0,393.0,206.0,284.0,321.0,325.0,269.0,459.0,0.0,979.0,662.0,17.0,459.0
+Farmaceutski fakultet,Univerzitet u Beogradu,Integr. akademske,Magistar farmacije medicinski biohemičar,5,MD,Državni fakultet,72.0,480.0,356.0,58.0,81.0,95.0,91.0,73.0,140.0,0.0,263.0,213.0,4.0,140.0
+Fizički fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani meteorolog,4,PM,Državni fakultet,40.0,83.0,70.0,3.0,18.0,14.0,34.0,17.0,0.0,0.0,26.0,57.0,0.0,17.0
+Fizički fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani fizičar,4,PM,Državni fakultet,125.0,401.0,222.0,16.0,129.0,53.0,107.0,112.0,0.0,0.0,200.0,201.0,0.0,112.0
+Fizički fakultet,Univerzitet u Beogradu,Osnovne akademske,Fizičar,3,PM,Državni fakultet,0.0,30.0,0.0,6.0,0.0,1.0,29.0,0.0,0.0,0.0,2.0,28.0,0.0,29.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani andragog,4,DH,Državni fakultet,30.0,178.0,44.0,27.0,33.0,40.0,31.0,74.0,0.0,0.0,109.0,69.0,0.0,74.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani arheolog,4,DH,Državni fakultet,62.0,327.0,30.0,45.0,48.0,52.0,58.0,169.0,0.0,0.0,149.0,178.0,0.0,169.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani etnolog-antropolog,4,DH,Državni fakultet,55.0,262.0,35.0,27.0,63.0,48.0,42.0,109.0,0.0,0.0,166.0,94.0,2.0,109.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani istoričar,4,DH,Državni fakultet,120.0,570.0,106.0,66.0,114.0,102.0,109.0,245.0,0.0,0.0,274.0,295.0,1.0,245.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani istoričar umetnosti,4,DH,Državni fakultet,90.0,438.0,42.0,51.0,78.0,76.0,77.0,207.0,0.0,0.0,221.0,217.0,0.0,207.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani klasični filolog,4,DH,Državni fakultet,30.0,62.0,4.0,4.0,20.0,8.0,14.0,20.0,0.0,0.0,31.0,31.0,0.0,20.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani pedagog,4,DH,Državni fakultet,60.0,271.0,42.0,53.0,62.0,51.0,56.0,102.0,0.0,0.0,207.0,64.0,0.0,102.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani psiholog,4,DH,Državni fakultet,88.0,563.0,466.0,73.0,95.0,106.0,105.0,257.0,0.0,0.0,343.0,219.0,1.0,257.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani sociolog,4,DH,Državni fakultet,100.0,571.0,69.0,67.0,102.0,98.0,94.0,277.0,0.0,0.0,296.0,275.0,0.0,277.0
+Filozofski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani filozof,4,DH,Državni fakultet,70.0,315.0,41.0,47.0,73.0,64.0,45.0,133.0,0.0,0.0,164.0,151.0,0.0,133.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani istoričar,4,DH,Državni fakultet,50.0,246.0,39.0,27.0,49.0,19.0,28.0,150.0,0.0,0.0,92.0,154.0,0.0,150.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani komunikolog,4,DH,Državni fakultet,50.0,218.0,56.0,28.0,53.0,46.0,46.0,73.0,0.0,0.0,164.0,54.0,0.0,73.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani novinar/žurnalista,4,DH,Državni fakultet,50.0,269.0,39.0,33.0,52.0,44.0,39.0,134.0,0.0,0.0,146.0,123.0,0.0,134.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani pedagog,4,DH,Državni fakultet,50.0,252.0,60.0,34.0,59.0,47.0,42.0,104.0,0.0,0.0,168.0,84.0,0.0,104.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani psiholog,4,DH,Državni fakultet,90.0,565.0,184.0,59.0,110.0,89.0,105.0,261.0,0.0,0.0,262.0,302.0,1.0,261.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani sociolog,4,DH,Državni fakultet,50.0,246.0,31.0,24.0,73.0,27.0,29.0,117.0,0.0,0.0,90.0,156.0,0.0,117.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani socijalni radnik,4,DH,Državni fakultet,50.0,127.0,83.0,0.0,52.0,53.0,22.0,0.0,0.0,0.0,90.0,37.0,0.0,0.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani filozof,4,DH,Državni fakultet,30.0,106.0,23.0,11.0,33.0,18.0,7.0,48.0,0.0,0.0,47.0,59.0,0.0,48.0
+Filozofski fakultet,Univerzitet u Nišu,Osnovne akademske,Diplomirani filolog,4,DH,Državni fakultet,260.0,1062.0,278.0,139.0,226.0,148.0,173.0,515.0,0.0,0.0,493.0,569.0,0.0,515.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani istoričar,4,DH,Državni fakultet,70.0,287.0,63.0,29.0,88.0,38.0,38.0,123.0,0.0,0.0,136.0,151.0,0.0,123.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani novinar/žurnalista,4,DH,Državni fakultet,70.0,328.0,94.0,44.0,72.0,59.0,66.0,131.0,0.0,0.0,220.0,108.0,0.0,131.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani pedagog,4,DH,Državni fakultet,75.0,355.0,90.0,76.0,79.0,66.0,65.0,145.0,0.0,0.0,210.0,145.0,0.0,145.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani psiholog,4,DH,Državni fakultet,80.0,386.0,280.0,69.0,89.0,83.0,73.0,141.0,0.0,0.0,255.0,130.0,1.0,141.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani sociolog,4,DH,Državni fakultet,55.0,204.0,31.0,35.0,59.0,33.0,34.0,78.0,0.0,0.0,94.0,110.0,0.0,78.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani socijalni radnik,4,DH,Državni fakultet,50.0,96.0,86.0,0.0,50.0,46.0,0.0,0.0,0.0,0.0,61.0,35.0,0.0,0.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filozof,4,DH,Državni fakultet,60.0,151.0,18.0,19.0,40.0,25.0,22.0,64.0,0.0,0.0,62.0,89.0,0.0,64.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog,4,DH,Državni fakultet,50.0,46.0,12.0,0.0,46.0,0.0,0.0,0.0,0.0,0.0,21.0,25.0,0.0,0.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - anglista,4,DH,Državni fakultet,70.0,310.0,167.0,60.0,76.0,65.0,56.0,113.0,0.0,0.0,208.0,102.0,0.0,113.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - germanista,4,DH,Državni fakultet,60.0,307.0,68.0,19.0,80.0,46.0,49.0,132.0,0.0,0.0,108.0,198.0,1.0,132.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - romanista,4,DH,Državni fakultet,60.0,192.0,26.0,21.0,41.0,29.0,35.0,87.0,0.0,0.0,87.0,105.0,0.0,87.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - rumunski jezik i književnost,4,DH,Državni fakultet,25.0,26.0,5.0,3.0,5.0,6.0,4.0,11.0,0.0,0.0,16.0,9.0,1.0,11.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - rusinski jezik i književnost,4,DH,Državni fakultet,20.0,6.0,2.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,5.0,1.0,0.0,3.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - slovački jezik i književnost,4,DH,Državni fakultet,30.0,20.0,4.0,1.0,4.0,5.0,4.0,7.0,0.0,0.0,17.0,3.0,0.0,7.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog - hungarolog,4,DH,Državni fakultet,25.0,68.0,11.0,11.0,13.0,13.0,12.0,30.0,0.0,0.0,49.0,19.0,0.0,30.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog komparatista,4,DH,Državni fakultet,20.0,84.0,13.0,18.0,14.0,17.0,19.0,34.0,0.0,0.0,59.0,25.0,0.0,34.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog slavista - ruski jezik i književnost,4,DH,Državni fakultet,50.0,151.0,25.0,19.0,35.0,28.0,27.0,61.0,0.0,0.0,91.0,57.0,3.0,61.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog srbista - srpska književnost i jezik,4,DH,Državni fakultet,85.0,320.0,52.0,51.0,57.0,51.0,57.0,155.0,0.0,0.0,173.0,147.0,0.0,155.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog srbista - srpski jezik i književnost,4,DH,Državni fakultet,60.0,225.0,33.0,44.0,52.0,32.0,42.0,99.0,0.0,0.0,142.0,83.0,0.0,99.0
+Filozofski fakultet,Univerzitet u Novom Sadu,Osnovne akademske,Diplomirani filolog srbista u odeljenjima za nacionalne manjine,4,DH,Državni fakultet,25.0,39.0,2.0,11.0,6.0,1.0,5.0,27.0,0.0,0.0,17.0,22.0,0.0,27.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani istoričar,4,DH,Državni fakultet,30.0,116.0,16.0,4.0,21.0,11.0,25.0,59.0,0.0,0.0,54.0,62.0,0.0,59.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani istoričar umetnosti,4,DH,Državni fakultet,20.0,27.0,7.0,1.0,9.0,4.0,5.0,9.0,0.0,0.0,20.0,7.0,0.0,9.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani pedagog,4,DH,Državni fakultet,50.0,186.0,25.0,20.0,21.0,34.0,40.0,91.0,0.0,0.0,82.0,104.0,0.0,91.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani profesor jezika i književnosti,4,DH,Državni fakultet,130.0,372.0,39.0,25.0,46.0,43.0,79.0,204.0,0.0,0.0,140.0,232.0,0.0,204.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani psiholog,4,DH,Državni fakultet,50.0,277.0,34.0,10.0,39.0,39.0,37.0,162.0,0.0,0.0,121.0,156.0,0.0,162.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani sociolog,4,DH,Državni fakultet,30.0,98.0,11.0,0.0,12.0,14.0,10.0,62.0,0.0,0.0,60.0,38.0,0.0,62.0
+"Filozofski fakultet, Kosovska Mitrovica",Univerzitet u Prištini,Osnovne akademske,Diplomirani filozof,4,DH,Državni fakultet,20.0,29.0,3.0,0.0,4.0,4.0,6.0,15.0,0.0,0.0,22.0,7.0,0.0,15.0
+Filološki fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani profesor jezika i književnosti,4,DH,Državni fakultet,1505.0,6554.0,1428.0,671.0,1251.0,1006.0,1041.0,3256.0,0.0,0.0,3203.0,3345.0,6.0,3256.0
+Filološki fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani teoretičar umetnosti,4,DH,Državni fakultet,20.0,68.0,12.0,3.0,16.0,14.0,10.0,28.0,0.0,0.0,44.0,24.0,0.0,28.0
+Filološki fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani filolog - anglista,4,DH,Državni fakultet,75.0,317.0,113.0,30.0,88.0,61.0,55.0,113.0,0.0,0.0,207.0,110.0,0.0,113.0
+Filološki fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani filolog - germanista,4,DH,Državni fakultet,30.0,153.0,39.0,13.0,35.0,28.0,38.0,52.0,0.0,0.0,77.0,76.0,0.0,52.0
+Filološki fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani filolog - romanista,4,DH,Državni fakultet,90.0,264.0,67.0,44.0,75.0,65.0,55.0,69.0,0.0,0.0,185.0,79.0,0.0,69.0
+Filološki fakultet,Univerzitet u Kragujevcu,Osnovne akademske,Diplomirani filolog srbista - srpski jezik i književnost,4,DH,Državni fakultet,60.0,281.0,21.0,12.0,50.0,44.0,54.0,133.0,0.0,0.0,153.0,128.0,0.0,133.0
+Hemijski fakultet,Univerzitet u Beogradu,Integr. akademske,Master profesor hemije,5,PM,Državni fakultet,25.0,50.0,6.0,16.0,13.0,5.0,7.0,16.0,9.0,0.0,23.0,27.0,0.0,9.0
+Hemijski fakultet,Univerzitet u Beogradu,Osnovne akademske,Biohemičar,4,PM,Državni fakultet,0.0,81.0,0.0,25.0,0.0,7.0,25.0,49.0,0.0,0.0,34.0,47.0,0.0,49.0
+Hemijski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani biohemičar,4,PM,Državni fakultet,50.0,239.0,63.0,28.0,71.0,53.0,45.0,70.0,0.0,0.0,142.0,95.0,2.0,70.0
+Hemijski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani hemičar,4,PM,Državni fakultet,110.0,701.0,145.0,112.0,109.0,122.0,219.0,251.0,0.0,0.0,350.0,350.0,1.0,251.0
+Šumarski fakultet,Univerzitet u Beogradu,Osnovne akademske,Diplomirani inženjer šumarstva,4,TT,Državni fakultet,345.0,1746.0,284.0,147.0,373.0,331.0,283.0,759.0,0.0,0.0,805.0,940.0,1.0,759.0
+Matematički fakultet,Univerzitet u Beogradu,Osnovne akademske,Astronom/Matematičar/Informatičar,4,PM,Državni fakultet,435.0,1957.0,915.0,125.0,688.0,392.0,366.0,511.0,0.0,0.0,835.0,1121.0,1.0,511.0
